@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-41.75,-13.37,"Harpalyce lanata",1930176426,"Distrito de Catolés, Funil - próximo ao Rio da água Suja","BRA",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-41.85,-13.33,"Harpalyce lanata",1930547312,"Bicota, entre garimpo novo e Bicota","BRA",NA,1993,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-41.359444,-13.095278,"Harpalyce lanata",3912826068,"Serra do Gobira, acesso pela BA-142, sentido Mucugê-Ibicoara, ramal da Fazenda Caraíba em direção à Comunidade Capão do Correia.","BRA",NA,2015,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-41.266667,-13.216667,"Harpalyce lanata",1094904112,"Gerais do Macho Bonho.","BRA",NA,2012,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"

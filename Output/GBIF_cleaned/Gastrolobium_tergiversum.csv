@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+123.47,-33.45,"Gastrolobium tergiversum",912233972,"Base of Mt Ragged, NW side, along track to summit.","AUS",0.2,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

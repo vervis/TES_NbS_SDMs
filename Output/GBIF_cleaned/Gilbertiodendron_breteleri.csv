@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+11.3667,0.666667,"Gilbertiodendron breteleri",2269009629,"Oveng","GAB",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+13.005667,-0.708167,"Gilbertiodendron breteleri",2269012590,"c.30 km E of Lastoursville, 5 km on a forestry road heading S from Bambidie.","GAB",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+12.956667,-0.791667,"Gilbertiodendron breteleri",2515808867,"c.30 km E of Lastoursville, 5 km on a forestry road heading S from Bambidie.","GAB",NA,2008,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+13.066667,0.4,"Gilbertiodendron breteleri",2013857692,"Primary rain forest, near village Ekobakoba, ca 50 km SE of Makokou; inventory.","GAB",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+13.243219,0.296565,"Gilbertiodendron breteleri",4031402098,"c. 50 km SE of Makokou, near village Ekobakoba","GAB",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+12.8167,1.51667,"Gilbertiodendron breteleri",2269013587,"Woleu-Ntem, Minkébé region","GAB",NA,1990,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+12.8,1.5,"Gilbertiodendron breteleri",2515523064,"Minkébé region, 543 m on transect A. Dry-land forest","GAB",NA,1990,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+96.847222,33.067778,"Hedysarum tibeticum",1999368756,"Gachojiang, west of the city of Yushu; 33°04'17N, 96°50'34E; 3810 m","CHN",NA,1995,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;COLLECTION_MATCH_FUZZY"
+83.9,29.2,"Hedysarum tibeticum",1257553061,"Nepal, Dhawalagiri Zone, Mustang Distr.; Kyungchhama Khola, a valley, ca. 6 km NW of Lo-Manthang.","NPL",NA,2003,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+97.033889,32.931944,"Hedysarum tibeticum",1998392368,"South of the city of Yushu on the road to Nangqen at Shang-Baitang; 32°55'04N, 97°02'23E; 3690-3750 m","CHN",NA,1995,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;COLLECTION_MATCH_FUZZY"

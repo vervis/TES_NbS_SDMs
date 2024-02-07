@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.27,-14.43,"Dypsis marojejyi",1929231153,"Antsiranana. Reserve Naturelle Marojejy, along the trail to the summit of Marojejy Est, N of Madena; cloud forest on steep ridge above the second camp","MDG",NA,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+49.743333,-14.436667,"Dypsis marojejyi",4061354005,"Antsirana Sava,Sambava, Maroambihy, Marojejy National Park. Camp 3. Marojejy summit trail.","MDG",NA,2015,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.48,-14.78,"Dypsis marojejyi",912158044,"Anjanaharibe-sud Reserve Speciale","MDG",0.2,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+49.6,-14.53333,"Dypsis marojejyi",4061489895,"Andapa: Marojejy W, entre Ambatoharanana et Antsahaberoka","MDG",NA,1959,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

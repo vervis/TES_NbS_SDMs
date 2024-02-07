@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+26.663729,-22.402532,"Blepharis petalidioides",3058979168,NA,"BWA",112,2021,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+26.671025,-22.401937,"Blepharis petalidioides",3044626404,NA,"BWA",739,2019,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+26.939175,-22.076701,"Blepharis petalidioides",3773507992,NA,"BWA",4,2022,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

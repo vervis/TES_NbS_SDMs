@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+131.304444,-15.463056,"Triodia fitzgeraldii",2830388287,"Gregory National Park, Matt Wilson lookout. IBRA: VB.","AUS",250,2015,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+130.027222,-16.203056,"Triodia fitzgeraldii",2829124739,"Western Gregory National Park, c. 46 km W of Bullita Ranger Station. IBRA: VB.","AUS",50,2015,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+128.412431,-15.950387,"Triodia fitzgeraldii",4061788171,"Wyndham-East Kimberley (S). Dillon Springs, 46 miles SE of Wyndham Township.","AUS",NA,1952,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

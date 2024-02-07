@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-64.6806,-31.5517,"Poa hubbardiana",2900456611,"Dpto. Punilla, Cruce con el camino a Copina viejo.","ARG",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-64.89194,-31.60194,"Poa hubbardiana",1259550595,"Pampa de Achala, Frente al hotel La Posta","ARG",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-65.101389,-31.691389,"Poa hubbardiana",2252120579,"Pampa de Achala al costado de la repetidora de Telecom.","ARG",NA,1995,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-65.5775,-34.022222,"Poa hubbardiana",2252120348,"Cerro El Morro (Estancia La Morena)","ARG",NA,1957,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-65.928333,-33.186667,"Poa hubbardiana",2252121001,"Al norte de Las Pampas de las Invernadas.","ARG",NA,1976,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-65.410556,-32.1425,"Poa hubbardiana",2252120818,"Sierra Comechingones: Cerca de la cumbre, subiendo frente a El Rincón","ARG",NA,1956,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

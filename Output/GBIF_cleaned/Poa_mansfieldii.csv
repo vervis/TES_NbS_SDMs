@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-118.58791,42.66865,"Poa mansfieldii",4061335529,"Steens Mountain; between Little Blitzen Gorge and the Steens Loop Road, S of the head of the Gorge","USA",NA,2014,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-118.5991054,42.6360399,"Poa mansfieldii",2578933483,"Greata Basin, Steens Mountain, ridge northwest of Wildhourse Lake, 21 airmiles southeast of Frenchglen","USA",NA,2012,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

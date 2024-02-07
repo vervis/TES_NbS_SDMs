@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.83,-0.42,"Calpocalyx brevifolius",1095914511,"Gabon, Moyen-Ogooué, M'Boumi, chantier SHM, c. 30km S of Ndjolé, on border of the Ogooué river near Ndjolé.","GAB",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+9.795,-2.086667,"Calpocalyx brevifolius",2516170259,"E of N'Goumbi.","GAB",NA,1991,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.5,-2.683333,"Calpocalyx brevifolius",2516170261,"32 road-km N of Igotchi-Mouenda, Bakker timber concession.","GAB",NA,1997,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+9.86,-1.935,"Calpocalyx brevifolius",2269008468,"Rabi 55.","GAB",NA,1991,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

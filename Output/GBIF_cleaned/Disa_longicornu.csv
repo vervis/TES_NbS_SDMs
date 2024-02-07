@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+18.418837,-33.976641,"Disa longicornu",1288065766,"Western Cape;Cape Town, Table Mtn.","ZAF",NA,2009,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"

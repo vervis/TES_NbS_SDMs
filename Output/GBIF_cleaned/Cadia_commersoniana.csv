@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.85,-25.06666,"Cadia commersoniana",4031631281,"Anosy, Tolagnaro, Manambaro, Ambovo, forêt littorale de Petriky, zone de conservation. Récoltés avec R. Ramison & F. Randriatafika.","MDG",NA,2007,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+47,-24.95,"Cadia commersoniana",1260920340,"Anosy, Tolagnaro, Ampasy Nahampoana, forêt littorale d'Ambavarano - Mandena.","MDG",NA,2006,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.99944,-24.95167,"Cadia commersoniana",436952006,"","MDG",NA,2004,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+124.8,-17.85,"Triodia pascoeana",912681624,"NE slope of Napier Range, 3km N of the Gibb River road on track that passes Napier Downs homestead near Yammera Gap","AUS",0.2,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

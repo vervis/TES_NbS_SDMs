@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-76.9,4.6,"Macrolobium inaequale",1260652966,"Hoya del Rio San Juan. Río Fujiadó, alfuente del Río San Juan.","COL",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-77.353056,4.956389,"Macrolobium inaequale",1890909199,"Región del Río Baudó.","COL",1020,1967,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED"
+-74.76659,7.10912,"Macrolobium inaequale",1898903490,"14-17 Kms. NO. de Remedios en la via Zaragoza, region de Cerro Cabeza, margen del rio Tucupe.","COL",1750,1987,"PRESERVED_SPECIMEN",""
+-78.56694,1.21666,"Macrolobium inaequale",4031592056,"Territorio Indígena Awá. Centro Mataje. Forest management area. One-hectare permanent plot in primary forest, 500 m west of Río Mataje. Lowland wet forest.","ECU",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-79.08333,0.76666,"Macrolobium inaequale",4061155690,"Rio Pambil. Estero Sandumbi.","ECU",NA,1967,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-76.486472,7.186944,"Macrolobium inaequale",1087725195,"Resguardo indígena Emberá, asentamiento en Chontadural. En bosques maduros con buen estado de conservación. Al interior de la parcela permanente de 1 ha, establecida por CARBONO Y BOSQUES.","COL",NA,2015,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+-74.5,7.33333,"Macrolobium inaequale",1261490170,"14-17 km NO de Remedios en la vía a Zaragoza, región de Cerro Cabeza, margen del Ri|o Tucupé","COL",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-44.6167,-22.4333,"Merostachys pluriflora",1322298497,"Itatiaia national park, maromba","BRA",NA,1990,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

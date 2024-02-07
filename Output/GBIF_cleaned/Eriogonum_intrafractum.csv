@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-117.072621,36.849182,"Eriogonum intrafractum",1986914960,"Death Valley National Monument; Grapevine Mountains, Titus Canyon, 0.5 mi below Leadfield","USA",987,1968,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"
+-117.0396,36.3597,"Eriogonum intrafractum",2430057794,"Panamint Mountains: Death Valley drainage; Tetracoccus Peak, near saddle.","USA",431,1989,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-116.6472,36.4107,"Eriogonum intrafractum",2430129608,"Death Valley Nat'l Monument, Funeral Mtns, upper end of Red Amphitheatre.","USA",437,1983,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-116.6779,36.4046,"Eriogonum intrafractum",2430174473,"Funeral Range: Furnace Creek drainage; Death Valley National Monument; ''White Portal'' Canyon; up from Hole-in-the-Wall toward Red Amphitheater.","USA",1550,1988,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

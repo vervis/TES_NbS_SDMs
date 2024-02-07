@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+119.2,-23.29,"Acacia subtiliformis",912608670,"Ca 5 km due ESE of Giles Point (which is at W end of Ophthalmia Range) on old track to Newman (on 'Giles Ore Bodt Ridge')","AUS",0.2,2004,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

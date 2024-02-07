@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+24.762,-34.029,"Pelargonium reniforme",287280321,"Humansdorp Div. On Cape Town side of the village.","ZAF",NA,1953,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+25.505473,-33.757523,"Pelargonium reniforme",1946169435,"Port Elizabeth, Uitenhage, 10 kilometers E of Uitenhage, Cape Province","ZAF",9919,1974,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+26.233333,-33.083333,"Pelargonium reniforme",2517894053,"Carlisle Bridge.","ZAF",NA,1973,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-59.7167,2.9,"Zollernia kanukuensis",1322101855,"Rupununi savanna, mt. shiriri","GUY",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-60.18,2.416667,"Zollernia kanukuensis",1042601443,"Serra da Lua, Vicinity of Dormida, foothills of Serra da Lua.","BRA",NA,1969,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE"
+-59.466667,3.066667,"Zollernia kanukuensis",2515480809,"","GUY",NA,1985,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+-59.65,2.9667,"Zollernia kanukuensis",1317690848,"Rupununi savanna, mountain point, near ranch of shirley humphries","GUY",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-59.8333,2.75,"Zollernia kanukuensis",1322027993,"Rupununi dist., kusad mountaiins","GUY",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-51.797206,3.854254,"Polygala apparicioi",1931281631,"Oyapock Airfield Savanna.","BRA",NA,1954,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-43.583333,-19.333333,"Polygala apparicioi",1570746036,"Serra do Cipó","BRA",NA,1991,"PRESERVED_SPECIMEN","COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"
+-43.4,-18.87,"Polygala apparicioi",1929449841,"Serra do Cipó, ca. km 120 (ca. 145km N of Belo Horizonte).","BRA",5000,1968,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-43.816667,-18.833333,"Polygala apparicioi",1099623984,"Rodovia Belo Horizonte - Conceição do Mato Dentro. Serra da Mangabeira próximo a margem do rio Preto.","BRA",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"

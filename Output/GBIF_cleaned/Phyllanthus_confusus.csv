@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+35.63,-15.92,"Phyllanthus confusus",912106924,"Mt. Mulanje Forest Reserve, Mulanje District. ½mile from Forestry Hut near Boma Path.","MWI",NA,1981,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+35.7,-15.9,"Phyllanthus confusus",912106950,"Southern Region, Mlanje District. Mlanje Mountain, Sombani Basin. UTM grid ref. 788:8240.","MWI",NA,1970,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

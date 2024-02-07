@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-102.42361,27.04472,"Polygala shinnersii",2807396792,"Cañón de La Hacienda (N draining): S of upper woodcutters camp along E-fork trail first level bench on rodge between E and W fork","MEX",NA,1975,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-102.51667,27.13333,"Polygala shinnersii",2807467788,"Ca 29 (air) Km mi WNW of Cuatro Ciénegas, on N slope of Sa de la Madera, 8.8 mi W by rd from Rancho Cerro de la Madera, up N-facing Cañón Desiderio","MEX",NA,1976,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-100.04519,24.77889,"Polygala shinnersii",2859554522,"Sierra Madre Orientale; along road from Galeana to MEX. Highway 60, 3 miles south of Galeana.","MEX",NA,2009,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-100.716667,25.416667,"Polygala shinnersii",1261037799,"Sierra de La Nieve","MEX",NA,1990,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-99.89,23.82,"Polygala shinnersii",1261034339,"Puerto Pino","MEX",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

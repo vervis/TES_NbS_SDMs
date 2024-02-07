@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+8.85,5.06,"Hymenostegia bakeriana",3969267922,"Korup, Parc National de Korup, CTFS forest dynamic plot, close to Chimpanzee camp, 19 km from Mundemba village.","CMR",NA,2008,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"
+8.9,4.95,"Hymenostegia bakeriana",346669171,"Vicinity of Mundemba, Ndian division.","CMR",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"
+8.816667,5.066667,"Hymenostegia bakeriana",346669167,"Korup National Park.","CMR",NA,1984,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"
+8.8,5,"Hymenostegia bakeriana",2515745475,"Korup National Park, P transect, plot 25U.","CMR",NA,2000,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+8.866667,5.166667,"Hymenostegia bakeriana",2517829410,"Ndian, Ekundu Kundu. Path from forest camp (near Ekundu Kundu) to top of Mt. Juahan. Lowland forest","CMR",NA,1996,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

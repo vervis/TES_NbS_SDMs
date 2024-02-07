@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+29.683333,-30.65,"Struthiola anomala",4061620873,"Alfred District, Weza State Forest, Grassy shoulder beside the road to Lovedale Plantation. Grassland. On edge of damp rocky sheet. 29 30 DA","ZAF",NA,1984,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+29.6367,-30.6432,"Struthiola anomala",3070295439,"","ZAF",1,2013,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

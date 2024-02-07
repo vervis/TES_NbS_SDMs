@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-72.71575,5.834528,"Monnina densa",2577274853,"Vereda Santa Bárbara, parte alta de la laguna de Guacheneque","COL",NA,2019,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-73.633333,10.75,"Monnina densa",1258819311,"Vicinity of two small lakes near source of Río Yebosimeina. In bosque pluvial Montano Zone with 1000-2000 mm/year rainfall.","COL",NA,1977,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-72.925167,5.945306,"Monnina densa",1269775170,"Vereda Centro Rural","COL",NA,2014,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-73.140917,5.8525,"Monnina densa",1269790524,"Vereda Carrizal","COL",NA,2014,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-73.114056,5.554167,"Monnina densa",1269754762,"Páramo La Cortadera, vereda Cunuca","COL",NA,2014,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE"

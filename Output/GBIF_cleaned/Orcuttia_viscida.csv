@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-121.187,38.533,"Orcuttia viscida",3053366587,"ca. 11.7 mi S of Folsom, along Grant Line Rd, ca. 2.9 mi N of its jct with St Hwy 16","USA",1000,1958,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-95.71,37.09,"Orcuttia viscida",4042922210,"Sacramento County.2.9 miles north of junction of Grant Line Road and state Highway","USA",NA,1960,"PRESERVED_SPECIMEN","COUNTRY_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-121.748,38.03903,"Orcuttia viscida",2421716133,"Sacramento County: about 10 miles S of Folsom, E side of Grant Line Road, 0.6 mile N of its intersection with Kiefer Boulevard.","USA",1529,1986,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-121.20667,38.47637,"Orcuttia viscida",2421673102,"California, Sacramento Co.; southeast of intersection of Grantline and Douglas Streets;","USA",3000,1993,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-60.84,-18.15,"Arachis krapovickasii",4062183264,"Protected due to name conservation status","BOL",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-60.85,-18.24,"Arachis krapovickasii",4061514802,"Protected due to name conservation status","BOL",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

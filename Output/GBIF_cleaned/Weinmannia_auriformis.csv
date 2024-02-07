@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-78.17444,-3.26361,"Weinmannia auriformis",4061976558,"Cordillera de Huaracayo, east of Cordillera del Cóndor and Río Coangos. Cerro Ijiach Naint, flat-topped sandstone mountain, east of Shuar village of Tinkimints. Ridge below west side of summit. Dense shrubby vegetation.","ECU",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

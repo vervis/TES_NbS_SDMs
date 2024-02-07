@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-50.052778,-6.447778,"Leptolobium glaziovianum",2365691564,"Mina do Sossego","BRA",NA,2009,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-44.111817,-21.370625,"Leptolobium glaziovianum",1806875828,"","BRA",NA,2017,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;AMBIGUOUS_INSTITUTION"
+-45.5886,-11.1633,"Leptolobium glaziovianum",1563305889,"Formosa do Rio preto, fazenda Lagoa de Fora","BRA",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-48.7,-17.72,"Leptolobium glaziovianum",1563219429,"Municipio de Caldas Novas: ca. 10 km due NW of city of Caldas Novas. Several km N of N edge of Serra de Caldas, along ol dirt road 100-300 m south of Morrinho-Caldas Novas highway","BRA",NA,1974,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-47.115833,-15.383333,"Leptolobium glaziovianum",2274007347,"Distrito de Bezerra, buraco das Araras, Fazenda do sr. Wenceslau. Folha: SD-23-Y-C.","BRA",NA,2015,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

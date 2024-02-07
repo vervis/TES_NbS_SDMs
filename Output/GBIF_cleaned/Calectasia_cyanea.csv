@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+115.3,-29.9,"Calectasia cyanea",2513738796,"Western Australia : 10 km S of Eneabba.","AUS",NA,1981,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+115.833056,-31.7175,"Calectasia cyanea",2610097034,"8 miles N of Forestry Headquarters Pinjar, Wanneroo.","AUS",NA,1963,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+35.381998,-23.873997,"Calectasia cyanea",2560351663,"Arredores da Baía de Inhambane.","MOZ",125,1954,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+141.328227,-38.114606,"Calectasia cyanea",1937437898,"","AUS",3000,1970,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-40.4214,-17.1325,"Diandrolyra pygmaea",1929998972,"Fazenda Pedra Grande, 16.2 km west of Itanhém on road to Batinga, then 0.6 km north to Fazenda (owner Otevaldo Resende da Silva)","BRA",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-39.333333,-14.85,"Diandrolyra pygmaea",1258217132,"Mpio. Itabuna: Ferradas: Faz. Aberta Grande, 14 km SW of Itabuna.","BRA",NA,1972,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-39.0625,-14.8125,"Diandrolyra pygmaea",1094859695,"CEPLAC, cabruca fora do terreno da CEPLAC, lado direito, seguindo o ramal que circunda a CEPLAC.","BRA",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"
+-39.61667,-13.26667,"Diandrolyra pygmaea",464923655,"","BRA",NA,1972,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

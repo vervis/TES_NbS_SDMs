@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-65.807578,18.064292,"Coccoloba rugosa",1928162945,"Punta Guayanes, along old road from S and of Palmas Del Mar next to sea.","PRI",1000,1991,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-65.785833,18.251489,"Coccoloba rugosa",1929342624,"Rio Blanco water fall, Sierra de Luquillo.","PRI",NA,1965,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY"
+-65.66452,18.31417,"Coccoloba rugosa",1931353562,"Woods near Fajardo","PRI",NA,1963,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-65.64659,18.354,"Coccoloba rugosa",1929340295,"El Convento.","PRI",NA,1981,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-42.540278,-14.305278,"Coccoloba rugosa",1077229286,"Serra Geral, Brejinho das Ametistas, caminho para o Bloco III","BRA",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

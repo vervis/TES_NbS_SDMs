@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-12.3043,-37.07705,"Agrostis carmichaelii",1848348033,"Tristan da Cunha. Tristan. Cliff, Hottentot Gulch.","SHN",NA,2001,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-12.33582,-37.11337,"Agrostis carmichaelii",1848347898,"Tristan da Cunha. Tristan. Base above Burntwood.","SHN",NA,2000,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

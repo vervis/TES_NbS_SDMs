@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+149.967848,-34.298432,"Acacia chalkeri",1451621743,"locality withheld","AUS",2000,1975,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+150.233333,-33.733333,"Acacia chalkeri",2827272912,"Megalong Valley","AUS",NA,1959,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+150.470231,-34.418337,"Acacia chalkeri",1453032343,"locality withheld","AUS",5,2016,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+149.641667,-34.116667,"Acacia chalkeri",2828901901,"Abercrombie National Park, Abercrombie Fire Trail, 850 m north-east of confluence of Retreat and Abercrombie Rivers, east of Macks Flat pines.","AUS",1000,1998,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+149.683333,-34.166667,"Acacia chalkeri",2830152531,"Abercrombie National Park, Abercrombie Fire Trail 200 m directly S of Silent Creek camping area, about 1.5 km ENE of confluence with Abercrombie River. AMGR 7470 62166.","AUS",1000,1999,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

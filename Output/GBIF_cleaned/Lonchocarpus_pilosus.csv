@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-85.452778,12.369722,"Lonchocarpus pilosus",1257907866,"Comarca El Tesorero, at Río El Aguacate on road from Camoapa to Cuapa; roadside, gallery forest and steep rocky slope above river","NIC",NA,2012,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-85.383333,12.283333,"Lonchocarpus pilosus",1259142549,"3 km N of Cuapa; premontane moist forest","NIC",NA,1977,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

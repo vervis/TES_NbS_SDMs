@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-115.749444,36.420556,"Astragalus aequalis",1846507515,"Ca. 1/2 mile W of Cold Creek, Spring Mountains.","USA",NA,1972,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-115.611768,36.263966,"Astragalus aequalis",2573783118,"","USA",50,2018,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+-115.7178,36.2406,"Astragalus aequalis",1929238317,"Carpenter Canyon, ca. 18 mi E of Pahrump","USA",NA,1987,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-115.8431,36.2883,"Astragalus aequalis",1930559318,"Road on east side of Wheeler Wash between Clark Canyon and Wallace Canyon, southwest side of Spring Mountains northeast of Pahrump","USA",5000,1980,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+133.2514,-11.7347,"Amyema haematodes",2437629957,"Marligur Creek, near mouth.","AUS",1000,1992,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+131.066667,-12.416667,"Amyema haematodes",2830560247,"Howard River.","AUS",NA,1989,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+132.876174,-11.056901,"Amyema haematodes",4017000849,"Lawson Island.","AUS",2000,1992,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+134.280556,-11.984167,"Amyema haematodes",1633156024,"Maningrida area Open coastal vine thicket on stabilised dune swale; sand.","AUS",20,2000,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+130.99,-12.425278,"Amyema haematodes",2828994913,"Thorak - edge of Army Base. Edge of Flood Plain. Robertson Barraks. Thorgate Road - dirt track. Above King Creek. [Location also described as Thorak Creek 2 km E of northern end of Thorngate Rd, approx. 18 km ENE of Darwin.]","AUS",50,2001,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

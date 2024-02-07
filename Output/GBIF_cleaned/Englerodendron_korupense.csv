@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+8.78,5.02,"Englerodendron korupense",912494932,"South-West Province, Korup National Park, P plot, subplot 33C.","CMR",NA,2004,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COORDINATE_UNCERTAINTY_METERS_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+118.65,-30.89167,"Acacia ascendens",165717767,"Australia: Chiddarcooping Nature Reserve. Morrison Road 9 km of Echo Rd. 23.07.1989, Leg.: B. R. Maslin 6382.","AUS",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

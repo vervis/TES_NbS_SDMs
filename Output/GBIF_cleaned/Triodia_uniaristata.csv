@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+132.969689,-12.435279,"Triodia uniaristata",1633057376,"East Alligator River. Sandstone walk. Low sandstone outcrop. Skeletal site, easterly aspect.","AUS",20,1997,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+133.416667,-12.483333,"Triodia uniaristata",4031465688,"West Arnhem (S) . Arnhem Land: ca 28 miles SE of Oenpelli Mission.","AUS",NA,1973,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+133.311954,-12.457134,"Triodia uniaristata",2826936267,"Arnhem Land, Tin Camp Creek, 3km WSW Myra Falls","AUS",NA,1994,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

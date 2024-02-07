@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+22.19007,-33.91059,"Aspalathus digitifolia",2294446077,"","ZAF",5,2019,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+22.03,-33.87,"Aspalathus digitifolia",1838326360,"","ZAF",1100,2013,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+21.99357,-33.88226,"Aspalathus digitifolia",3039352626,"","ZAF",10,2021,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+22.083889,-33.541944,"Aspalathus digitifolia",1226923665,"On north facing slope of Bolleberg next to trail to Moordkuils catchment in moist rocky sandy soil.","ZAF",NA,1984,"PRESERVED_SPECIMEN","RECORDED_DATE_INVALID;COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"

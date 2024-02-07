@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+32.905063,-26.038655,"Hermannia micropetala",2515950982,"Inhaca: Machamba perto de E.B.M.","MOZ",NA,1975,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+32.574722,-26.488333,"Hermannia micropetala",1937580990,"Bela Vista, Tinonganine (Missão de Combate às Tripanossomiases). [-26.4883330000, 32.5747220000]","MOZ",10,1957,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+32.736307,-25.531296,"Hermannia micropetala",1937581053,"Lourenço Marques: entre Marracuene e Manhiça.","MOZ",40,1958,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+32.4625,-27.588056,"Hermannia micropetala",1937580427,"More or less 17 km from Mbazwana to Hluhluwe.","ZAF",NA,2001,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+32.680833,-25.834722,"Hermannia micropetala",1937580365,"Entre a Costa do Sol e Marracuene: Muntanhane. [-25.8347220000, 32.6808330000]","MOZ",NA,1960,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+35.441944,-21.870833,"Hermannia micropetala",1937581264,"Benguerua Island, E. Moçambique, lat. 21°50.7'- 54.5'; longit. 35°24.5' - 27.3'. Sea level. [-21.8708330000,35.4419440000]","MOZ",8,1958,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+32.523992,-26.030565,"Hermannia micropetala",1937580575,"Delagoa Bay.","MOZ",100,1986,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

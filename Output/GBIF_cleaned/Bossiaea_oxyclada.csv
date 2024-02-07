@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+119.29,-34.03,"Bossiaea oxyclada",912497285,"Fitzgerald River National Park, Pabelup Drive, 1.6 km south from Twetup Creek Track junction, 27.2 km from South Coast Highway. Collection from west side of road. Approximately 48.5 km SE of Jerramungup.","AUS",NA,1997,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

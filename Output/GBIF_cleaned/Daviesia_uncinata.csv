@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+117.58,-31.97,"Daviesia uncinata",912639170,"Avon District, ca 40km SSW of Kellerberrin, Yoting rubbish tip.","AUS",0.2,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+117.483333,-31.783333,"Daviesia uncinata",2516860387,"Western Australia: Avon district; 17km S of Tammin, Charles Gardner Flora Reserve, 2km E of NW corner.","AUS",NA,1979,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

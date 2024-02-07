@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-78.97,-2.03,"Muhlenbergia palmirensis",1096719178,"Province Chimborazo, near Panamericana c. 10 km N of Palmira","ECU",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;CONTINENT_INVALID;INSTITUTION_COLLECTION_MISMATCH"
+-78.73,-2.02,"Muhlenbergia palmirensis",4061406491,"Protected due to name conservation status","ECU",NA,1984,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-78.72,-1.97,"Muhlenbergia palmirensis",4061058616,"Protected due to name conservation status","ECU",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-78.483,-1.516,"Muhlenbergia palmirensis",47809396,"Road Riobamba - Baños. Close to Puela. Remnants of Schinus forest in ravine.","ECU",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COORDINATE_PRECISION_INVALID;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+-78.9,-2.6,"Muhlenbergia palmirensis",4061717951,"Protected due to name conservation status","ECU",NA,1984,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-78.07,-1.98,"Muhlenbergia palmirensis",4061645647,"Protected due to name conservation status","ECU",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

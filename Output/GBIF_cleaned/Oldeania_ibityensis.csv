@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+47,-20.09,"Oldeania ibityensis",2618441784,"Madagascar, Antananarivo Province, Vakinankaratra Region, Antsirabe District, Commune Ibity, 25 km south of Antsirabe, northern end of Mount Ibity.","MDG",NA,2018,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+47.083333,-20.25,"Oldeania ibityensis",2268903267,"Mt. Ibity, south of Antsirabe.","MDG",NA,1971,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.557222,-20.616389,"Oldeania ibityensis",2268901847,"Itremo protectd area.","MDG",NA,2015,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.997528,-20.029806,"Oldeania ibityensis",1989829256,"Ibity Mountain, area just under the peak","MDG",NA,2016,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

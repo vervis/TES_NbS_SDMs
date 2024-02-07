@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+119.79,-30.25,"Acacia cylindrica",912619327,"23 km NE of Bungalbin Hil, ca 68 km NNE of Koolyanobbing (Jackson 1:250, 000 sheet)","AUS",0.2,1984,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

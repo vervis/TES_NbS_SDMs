@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+146.626099,-6.123565,"Digitaria mariannensis",4016936612,"Sialum, south of station.","PNG",2000,1975,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+119.082,-9.47481,"Digitaria mariannensis",3005711667,"Island: Sumba. District: Sumba Barat. Village: Buka Mbero. Nearest GPS Waypoint. Fallow/Path Edge.","IDN",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+147.616667,-6.1,"Digitaria mariannensis",2513550134,"Flora of New Guinea. Coral island opposite Sialum, Morobe District, Finschhafen Sub-District.","PNG",NA,1973,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

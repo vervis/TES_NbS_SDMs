@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+150.38,-34.92,"Acacia yalwalensis",2829564508,"SW of Nowra, near Danjera Dam, Yarramunmun area. (map ref: Sheet No. 8928, 610.318)","AUS",NA,1985,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+150.5,-35.083333,"Acacia yalwalensis",2827609849,"Condies Creek, near Wandandian.","AUS",1000,1960,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

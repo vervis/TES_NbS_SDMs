@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-119.78,43.16,"Astragalus tegetarioides",1928501273,"Head of Smoke-out Canyon ca. 4.3 km ENE of Little Juniper Mountain. North of the Dry Valley Road","USA",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-120.813722,41.082833,"Astragalus tegetarioides",3053432103,"Ash Valley: Loc #2. ACEC BLM land along same rd in volcanic substrates.","USA",NA,2010,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-120.258441,40.69159,"Astragalus tegetarioides",3091230939,"Along Hwy 395, near Ramhorn Campground","USA",NA,2019,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-118.99,43.83,"Astragalus tegetarioides",1929346887,"Adjacent to U.S. Highway 395, ca. 29 km north of Burns","USA",NA,1991,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

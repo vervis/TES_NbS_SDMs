@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-72.3904,6.62227,"Agrostis boyacensis",3766782330,"Páramo de Chacaritas","COL",NA,2018,"HUMAN_OBSERVATION",""
+-74.005556,5.222222,"Agrostis boyacensis",781070242,"Georeference from original publication, converted to decimal by googlemaps. Original coordinates 5°13'20'' Lat. N.; 74°00'20'' long.W. Precision calculated with altitudinal range.","COL",4000,1989,"HUMAN_OBSERVATION","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"
+-72.315038,6.407487,"Agrostis boyacensis",779870426,"Sierra Nevada de Cocuy, páramo Concavo","COL",NA,1973,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-73.106694,5.550167,"Agrostis boyacensis",1269767298,"Páramo La Cortadera, vereda La Chorrera","COL",NA,2014,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-72.627167,7.151142,"Agrostis boyacensis",1836125802,"Vereda Siagá","COL",NA,2014,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE"
+-76.4,2.3,"Agrostis boyacensis",1934695936,"Trayecto El Crucero-Pilimbalá.","COL",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-72.67,5.96,"Agrostis boyacensis",911532543,"Finca Jose Angel","COL",NA,2013,"HUMAN_OBSERVATION",""

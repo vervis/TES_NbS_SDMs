@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-41.816667,-20.45,"Chusquea baculifera",2998220149,"Parque Nacional do Caparaó, trail to Pico de Bandeira.","BRA",NA,1990,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-41.837139,-20.482167,"Chusquea baculifera",1087647657,"Parque Nacional do Caparaó, Parque Nacional do Caparaó, entrada do ES, Caminho entre Macieira e Cachoeira do Aurélio.","BRA",NA,2010,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;AMBIGUOUS_INSTITUTION"
+-41.904444,-20.523056,"Chusquea baculifera",2998192757,"Parque Nacional do Caparaó.","BRA",NA,1990,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

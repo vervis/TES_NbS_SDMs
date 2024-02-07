@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.031667,2.801667,"Hymenostegia talbotii",2516119582,"20 km SE of Kribi, E slope of Elephant Mountain.","CMR",NA,1994,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.966667,2.816667,"Hymenostegia talbotii",2516132088,"At the summit of the hill known as Zingui, near the village of the same name, 23 km WSW of Ebolowa.","CMR",NA,1994,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.383333,0.6,"Hymenostegia talbotii",2013867858,"Crystal Mountains, near Tchimbélé.","GAB",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+9.916667,2.95,"Hymenostegia talbotii",2515972095,"Kribi, Picard","CMR",NA,1952,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+43.8,-23.4,"Commiphora monstruosa",4061477758,"Route Tulear-Sakaraha, Table et environs.","MDG",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+43.75,-24.06666,"Commiphora monstruosa",4031448936,"Tsimanampetsotsa Reserve, S of Tulear. N edge of Reserve.","MDG",NA,1987,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+43.76666,-23.51666,"Commiphora monstruosa",4060910878,"A Ambina, au Sud de Toliara au bord de la route reliant Toliara à Anantsono (Saint Augustin). Bush épineux sur sol rocailleux. Récolté avec B. Du Puy, D. Hardy, B. Lewis, J.L. Andriantiana et G.R. Rafamantanantsoa.","MDG",NA,1993,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_NON_NUMERIC;INSTITUTION_MATCH_NONE"
+43.95555,-24.65861,"Commiphora monstruosa",4061776930,"Itampolo","MDG",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+43.91942,-23.51566,"Commiphora monstruosa",4067866438,"","MDG",NA,2020,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

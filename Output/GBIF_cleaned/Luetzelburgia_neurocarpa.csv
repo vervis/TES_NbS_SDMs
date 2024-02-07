@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-41.41,-11.01,"Luetzelburgia neurocarpa",1451066754,"Morro do Chapeu: ca. 2 km da Comunidade Gruta dos Brejoes","BRA",0.2,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

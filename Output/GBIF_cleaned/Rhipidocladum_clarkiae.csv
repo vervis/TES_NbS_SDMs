@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-83.98,10.06,"Rhipidocladum clarkiae",4061961193,"Parque Nacional Braulio Carrillo, along road 0.6 km N of information booth, S of Bajo de Hondura.","CRI",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-84.00806,10.06,"Rhipidocladum clarkiae",2900346398,"","CRI",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-84.266667,9.883333,"Rhipidocladum clarkiae",1253838533,"Santiago, km 32. Roadside under pine plantation; only Inga tree.","CRI",NA,2005,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;CONTINENT_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

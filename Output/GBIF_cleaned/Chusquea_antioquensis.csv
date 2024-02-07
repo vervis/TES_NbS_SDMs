@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-75.33,5.88,"Chusquea antioquensis",1931270779,"Río Buey, 5.6 km. SW of Mesopotamia and 25 km. NE of Abejorral.","COL",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-75.28333,6.33333,"Chusquea antioquensis",4061271851,"Road between San Vicente and Concepcion, 12.6 km SW of Concepcion, quebrada El Cabullo.","COL",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-75.28333,6.41666,"Chusquea antioquensis",4061867886,"Road from Concepcion to Barbosa, 7.5 km NW of Concepcion.","COL",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-75.45,5.033333,"Chusquea antioquensis",1258494514,"15.5 km below Hotel Los Termales del Ruiz, opposite entrance to Termales El Otono.","COL",NA,1988,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-75.346583,5.883436,"Chusquea antioquensis",1898916024,"Carretera Abejorral - Mesopotamia - Sonsón, cruce del río Buey, a lo largo de ambas orillas.","COL",10,1988,"PRESERVED_SPECIMEN","COORDINATE_PRECISION_INVALID"

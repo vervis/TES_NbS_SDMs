@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+120.002,-33.6753,"Daviesia newbeyi",1090258326,"13km NNE of Kybulup Pool, about 20km S of Ravensthorpe","AUS",NA,1978,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;PRESUMED_NEGATED_LONGITUDE;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

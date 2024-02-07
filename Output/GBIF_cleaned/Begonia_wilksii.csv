@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+11.136,-0.963,"Begonia wilksii",2269011457,"forestry road km 12.5, leading in N direction from road Evouta - Oghoubi camp along Ikoy river.","GAB",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+10.8167,-0.116667,"Begonia wilksii",4061305835,"15 km NE of Ndjolé. Exploitation road.","GAB",NA,1991,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+11.5,-1.98333,"Begonia wilksii",1259184247,"Lieu de récolte 11 km. E.S.E. de Bilengui. Grands rochers dans ecoulement. Foret lè.","GAB",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+10.45,0.566667,"Begonia wilksii",2269014664,"Crystal Mountains.","GAB",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

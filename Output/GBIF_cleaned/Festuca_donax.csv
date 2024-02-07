@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-16.8955016,32.7330593,"Festuca donax",1701598677,"Madeira: W of Ribeiro Frio, along the levada near Cab. do Faisca.","PRT",707,1978,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES"
+-17.11123,32.803021,"Festuca donax",3415134004,"Chão da Ribeira","PRT",2009,2004,"HUMAN_OBSERVATION","CONTINENT_COORDINATE_MISMATCH"
+-17.157188,32.852181,"Festuca donax",3415141218,"Ribeira da Janela","PRT",915,2004,"HUMAN_OBSERVATION","CONTINENT_COORDINATE_MISMATCH"
+-16.831797,32.756569,"Festuca donax",3415143072,"Levada do Folhadal","PRT",922,2004,"HUMAN_OBSERVATION","CONTINENT_COORDINATE_MISMATCH"

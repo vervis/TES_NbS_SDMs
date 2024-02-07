@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-79.38,-2.57,"Ecuadendron acosta-solisianum",1258290686,"Protected due to name conservation status","ECU",NA,1993,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-79.72,0.47,"Ecuadendron acosta-solisianum",4031443142,"Protected due to name conservation status","ECU",NA,1996,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-79.33,-2.55,"Ecuadendron acosta-solisianum",4031438916,"Protected due to name conservation status","ECU",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-79.63,-2.43,"Ecuadendron acosta-solisianum",4031937105,"Protected due to name conservation status","ECU",NA,1996,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-79.15,-1.28,"Ecuadendron acosta-solisianum",2268933297,"Protected due to name conservation status","ECU",NA,2018,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-79.21,0.52,"Ecuadendron acosta-solisianum",4061993898,"Protected due to name conservation status","ECU",NA,2016,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-79.27,-2.37,"Ecuadendron acosta-solisianum",2268934041,"Protected due to name conservation status","ECU",NA,2016,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

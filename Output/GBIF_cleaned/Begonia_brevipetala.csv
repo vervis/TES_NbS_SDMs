@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-70.2325,9.24028,"Begonia brevipetala",1318281516,"Parque Nacional Guaramacal. El Pumar, SE of Boconó, between camp on Roberto's finca near Pozo Verde at 1920 m and 2120 m on old mule trail to caserío de Guaramacal","VEN",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-71.166667,8.416667,"Begonia brevipetala",4031878940,"5 km N of El Morro, along stream, disturbed montane forest.","VEN",NA,1987,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-70.15,9.31667,"Begonia brevipetala",1318924079,"Parte mas alta de la carretera Batatal-Boconó, lugar de la Laguna de las Aguas Negras","VEN",NA,1982,"PRESERVED_SPECIMEN",""
+-70.016667,9.516667,"Begonia brevipetala",2517388714,"Estado Lara: Distrito Morán: selva nublada y quebradas con riachuelos tributarios del Rio Tocuyo, 15-18 km al sur de Humocaro Alto hacia Guaitó.","VEN",NA,1974,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+-70.2875,9.1586,"Begonia brevipetala",1322273876,"Parque Nacional Guaramacal. Sector occidental Qda. Honda","VEN",NA,2001,"PRESERVED_SPECIMEN",""

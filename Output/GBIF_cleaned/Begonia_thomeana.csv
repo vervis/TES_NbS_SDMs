@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+11.783333,-1.666667,"Begonia thomeana",2515933717,"Nguila Mountain, c. 4 km S.E. of the Missionary Station at Mouyanama (c. 15 km along the road Mimongo - Mbigou.","GAB",NA,1983,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+6.601987,0.275315,"Begonia thomeana",3921107469,"Macambrará","STP",NA,2019,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+11.766667,-1.616667,"Begonia thomeana",2517635854,"Massif du Chaillu, Songou Mountain, between Dibandi and Mouyanama, ± 20 km E of Mimongo.","GAB",NA,1983,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

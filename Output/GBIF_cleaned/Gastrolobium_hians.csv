@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+121.4658,-32.185,"Gastrolobium hians",1930843405,"25.5 km. along New Norseman-Hyden Road (turn 10 km. N of Norseman)","AUS",NA,1999,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

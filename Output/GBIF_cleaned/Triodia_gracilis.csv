@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+133.15,-13.11666,"Triodia gracilis",1259715484,"Ca. 7.5 mi SE of Mount Gilruthnant with Eriachne on open margins of Acacia thickets on sandstone plateau; also in stony shaley semi-scalded patches with Micraira and scattered low shurbs.","AUS",NA,1973,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+132.933333,-13.066667,"Triodia gracilis",2853763677,"C. 11 miles SW of Mt Gilruth.","AUS",NA,1973,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+132.923,-13.36,"Triodia gracilis",2826770042,"upper Jim Jim creek, Kakadu National Park","AUS",NA,1995,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

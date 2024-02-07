@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+150.334157,-26.153421,"Acacia barakulensis",2418489659,"Pandas Corner, nr Waaje Tower, Barakula Forest (GPS 26 09 18 150 19 59).","AUS",100,1995,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+150.642763,-26.740087,"Acacia barakulensis",3469588907,"Cultivated at Chinchilla.","AUS",2000,1981,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+150.327927,-26.154881,"Acacia barakulensis",1632952834,"Growing on a very white sandy flat in Waajee Scientific Park area, Barakula SF with many shrubland species.","AUS",NA,2010,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+150.4286,-26.3669,"Acacia barakulensis",2829906383,"400 m east of Pelham Bridge on both sides of road near grid, Barakula State Forest.","AUS",50,1996,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+150.39175,-26.30458,"Acacia barakulensis",3778792938,"Barakula State Forest","AUS",100,2009,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"

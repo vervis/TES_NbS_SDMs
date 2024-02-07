@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+33.001353,-19.742794,"Impatiens salpinx",3470240990,"Slope of ridge north of Mt. Pheza, Chimanimani Mts. National Park","MOZ",NA,2011,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+22.93,-9.24,"Impatiens salpinx",1563159751,"Katanga;Ferme Randu;within c. 20 km from the center","COD",NA,2006,"HUMAN_OBSERVATION","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"
+32.999739,-19.742744,"Impatiens salpinx",1937580140,"Small pass on ridge north of Mt Pheza.","MOZ",0.3,2011,"HUMAN_OBSERVATION",""
+33.054722,-19.864722,"Impatiens salpinx",1937580500,"On a hill overlooking a stream flowing palarrel to the border with Zimbabwe.","MOZ",NA,2016,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_UNPARSABLE;INSTITUTION_MATCH_NONE"

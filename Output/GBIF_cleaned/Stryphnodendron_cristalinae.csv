@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-47.6,-16.79518,"Stryphnodendron cristalinae",1930808985,"Serra dos Cristais. 5 km W. of Cristalina","BRA",5000,1965,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-47.74068,-16.75,"Stryphnodendron cristalinae",1928097443,"Serra dos Cristais, ca. 15 km W. of Cristalina, on road to Catalão","BRA",5000,1966,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-47.675833,-16.843333,"Stryphnodendron cristalinae",1090625409,"","BRA",NA,2010,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"
+-43.4,-18.95,"Stryphnodendron cristalinae",1928311607,"Serra do Cipó, ca. km. 112 (ca. 135km N. of Belo Horizonte).","BRA",5000,1968,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-43.6,-19.28,"Stryphnodendron cristalinae",1929643357,"Serra do Espinhaço, Serra do Cipó: along main road ca. 1-1,5 km NNE Pensão Chapeu-de-Sol (NNE Cardeal Mota), 38 km E Baldim.","BRA",NA,1990,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-48.000717,-17.000517,"Stryphnodendron cristalinae",1260291621,"Cerrado, 5 km. W. of Cristalina.","BRA",NA,1965,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-43.539757,-19.388386,"Stryphnodendron cristalinae",1928998923,"Serra do Cipó","BRA",NA,1974,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-60.666667,-7.583333,"Tachigali candelabrum",1930235383,"BR-230, Rodovia Transamazônica Km 302. Rio Aripuanã entre a Rod. e a Cachoeira de Matamatá","BRA",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-62.13,-6.966667,"Tachigali candelabrum",1042687223,"BR-230. Rod. Transamazônica a 113 km de Humaitá, reserva indígena dos Tenharim. Mata de terra firme, solo argiloso úmido.","BRA",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE"

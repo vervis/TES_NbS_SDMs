@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+9.32083,0.5365,"Leptoderris tomentella",4061355345,"Cap Santa Clara.","GAB",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+10.733333,3.1,"Leptoderris tomentella",2515578173,"In the Tropenbos research area. Logging road to I2, 200 m from the junction D2 - I2.","CMR",NA,1997,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+9.933333,3,"Leptoderris tomentella",2515560301,"9 km N of Kribi, seashore.","CMR",NA,1968,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.016667,-0.2,"Leptoderris tomentella",2517236695,"South of Estuaire du Gabon along Remboué River; British Gas site.","GAB",NA,1991,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+9.51667,0.483333,"Leptoderris tomentella",4061913996,"Secondary forest near Ovang, ca 6 km NE of Libreville.","GAB",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+10.7042,-3.06972,"Leptoderris tomentella",2269005521,"W of Tchibanga, between Malounga and Igotchi.","GAB",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

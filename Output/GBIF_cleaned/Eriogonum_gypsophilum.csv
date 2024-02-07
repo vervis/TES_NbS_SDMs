@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-104.4388,32.5585,"Eriogonum gypsophilum",1929838498,"about 15 mi. N of Carlsbad and 2 mi. W of Highway US 285","USA",NA,1977,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-104.3318,32.0429,"Eriogonum gypsophilum",1928501841,"ca. 25 air miles S of Carlsbad, 5 air ailes SE of Whites City, on gypseous banks of Ben Slaughter Arroyo","USA",NA,1985,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-104.2633,32.1737,"Eriogonum gypsophilum",1929307965,"ca. 20 air miles S of Carlsbad in the Black River Drainage, east of Blue Spring","USA",NA,1985,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"

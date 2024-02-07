@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+152.916667,-25.933333,"Jacksonia sericea",2514134192,"Queensland. Wide Bay Military Training Area: ca 1 km NNW of Camp Kerr. Grid ref. MS 911309.","AUS",NA,1980,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+114.3333,-27.6333,"Jacksonia sericea",1936363636,"Western Australia: Kalbarri National Park, 7 km from main road along track to The Loop","AUS",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

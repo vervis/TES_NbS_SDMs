@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+114.6,-27.3,"Jacksonia velutina",2430050673,"120 km N. of Northampton on Carnarvon Rd.","AUS",NA,1964,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

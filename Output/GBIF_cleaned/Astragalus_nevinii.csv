@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-118.539,32.918,"Astragalus nevinii",3053375393,"San Clemente Island: between Eel Cove and Eel Cove Cyn","USA",750,1996,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-118.4433,32.8755,"Astragalus nevinii",3053395744,"San Clemente Island: Just S of triangulation point Alta.","USA",400,1981,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-118.413889,32.8125,"Astragalus nevinii",2430304089,"San Clemente Island: Horse Beach Canyon, S end of island","USA",NA,1989,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

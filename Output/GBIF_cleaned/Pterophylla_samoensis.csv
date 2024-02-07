@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-171.51666,-13.93333,"Pterophylla samoensis",1258494550,"Upolu. Between Uafato and Samamea, along ridge south of east point of Fagaloa Bay. Montane forest.","WSM",NA,1997,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-172.5,-13.56666,"Pterophylla samoensis",1258494568,"Savaii. South of Aopo along trail to Mt. Silisili. Tall montane forest on steep, rocky slope.","WSM",NA,1997,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-171.74611,-13.9289,"Pterophylla samoensis",1839298894,"Montanefor","WSM",NA,1978,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

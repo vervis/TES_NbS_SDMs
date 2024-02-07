@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+121.11528,-26.68972,"Acacia kerryana",1144582587,"Western Australia - Western Australia. Loc. 1km S of Spargoville (c. 45km S of Coolgardie) on the road to Norseman, Coolgardie - Esperance Highway, W.A./State of Western Australia","AUS",NA,1981,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

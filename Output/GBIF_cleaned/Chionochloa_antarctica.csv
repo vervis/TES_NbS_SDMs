@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+166.27,-50.53,"Chionochloa antarctica",165069891,"Lowland bog. Alt. 100 ft. Ranui Cove. Auckland Islands","NZL",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+166.12,-50.58,"Chionochloa antarctica",165069890,"Tussock grassland, Bivouac hill. Auckland Islands","NZL",NA,1963,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

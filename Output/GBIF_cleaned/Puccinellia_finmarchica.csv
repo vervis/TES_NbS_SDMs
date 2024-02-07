@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+29.4285,69.7019,"Puccinellia finmarchica",1701789436,"Neiden: Myrland","NOR",1118,1981,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES"
+29.5180317,69.7034117,"Puccinellia finmarchica",1702031751,"Ytre Neiden: ør utafor Flatheim","NOR",1118,1983,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES"
+29.488032,69.6567094,"Puccinellia finmarchica",1701619045,"S. Varanger: Munkelvosen, stranda/neset Ø for.","NOR",71,1984,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES"

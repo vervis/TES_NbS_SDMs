@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+119.42,-30.28,"Neurachne annularis",912527935,"21.4km by road SE of Allens Find toward Bulgalbin Hill, SE of Mt Jackson and ca 100km NNE of Southern Cross WA.","AUS",0.2,1991,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.183333,-12.533333,"Colea pauciflora",1261184910,"Southwest of Antsiranana, Joffreville, Parc National de Montagne d'Ambre. Plants preserved in alcohol. Collected with A. Leeuwenberg, M. van Bergen, J. Andriatiana & B. Randriamampionona.","MDG",NA,1992,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

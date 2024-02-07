@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.63298,-20.595751,"Amphorocalyx rupestris",1024223162,"","MDG",8125,2011,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+46.711111,-20.566667,"Amphorocalyx rupestris",2515690470,"Itremo Massif, on Royute Nationale 35, 19 km W of Ambatofiandrahana, SW-facing rocky slope with deep gully.","MDG",NA,1992,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+46.701916,-20.06311,"Amphorocalyx rupestris",2425045456,"19 km W of Ambatofinandrahana and just W of Marovoalávo along National Route # 35.","MDG",NA,2004,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+46.828056,-20.496389,"Amphorocalyx rupestris",1259456624,"Commune Ambatofinandrahana. 7 km NNE of Ambatofinandrahana. Saronara massif. Quartzite massif.","MDG",NA,2004,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

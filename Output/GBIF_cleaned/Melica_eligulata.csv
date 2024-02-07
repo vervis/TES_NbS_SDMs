@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+36.147811,34.417272,"Melica eligulata",2635383325,"Wadi Jhannam","LBN",NA,2019,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+36.170435,34.392183,"Melica eligulata",2635383521,"Wadi Jhannam","LBN",NA,2019,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+36.29583,34.54,"Melica eligulata",1060406876,"Lebanon: N Lebanon. western slopes of the Mount Lebanon, ENE of Tripoli (here 63 plots/study sites of 10m x 10m). plot 4: ca 4 km S of the village Qoubaiyat (Jourd beit younes). [Youssef Chahine Atallah: Vegetation structure and biodiversity in mediterranean ecosystems. - Diss. Bot 405. 2007]. 22.04.2003, Leg.: Y. Chahine Atallah RB 958.","LBN",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

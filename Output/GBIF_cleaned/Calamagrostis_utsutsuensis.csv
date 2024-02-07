@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-118.615726,42.698354,"Calamagrostis utsutsuensis",4062036172,"Steens Mountain, headwater tributary of Little Blitzen River.","USA",NA,2012,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-118.68783,42.68238,"Calamagrostis utsutsuensis",3820648724,"Steens Mts. Region, 11.5 mi. E and 10 mi. due S of Frenchglen; L. Blitzen I.","USA",805,1954,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"
+-118.6027,42.6268,"Calamagrostis utsutsuensis",4068999853,"Below Little Wildhorse Lake, Steens mtn.","USA",500,1992,"PRESERVED_SPECIMEN","RECORDED_DATE_INVALID;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

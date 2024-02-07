@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+8.783333,5.016667,"Talbotiella velutina",2517619532,"Korup National Park, PE plot near P transect, subplot 16ZN.","CMR",NA,2005,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+8.899444,4.922222,"Talbotiella velutina",2515833431,"Besingi, Cameroon. Southwest Province. Near village Besingi, Besingi river forest.","CMR",NA,2008,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.63944,2.93139,"Talbotiella velutina",1019561603,"","CMR",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

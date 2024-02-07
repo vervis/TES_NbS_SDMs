@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.106667,-12.916389,"Terminalia belini",4061300171,"Réserve Spéciale d'Ankarana, à 12 km à l'Est du village Matsaborimanga. Campement des Anglais. Forêt sèche semi-caducifoliée. Echantillons préservés en alcool.","MDG",NA,1996,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.0925,-12.606389,"Terminalia belini",4061257395,"Montagne d'Ambre, versants ouest.","MDG",NA,2012,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

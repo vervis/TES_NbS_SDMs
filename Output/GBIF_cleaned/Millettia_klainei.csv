@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.3833,0.516667,"Millettia klainei",2269013474,"Crystal Mountains, 52970m on transect G.","GAB",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+11.9167,-0.683333,"Millettia klainei",4031851396,"Makande surroundings, c. 65 km SSW of Booué.","GAB",NA,1999,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+9.323333,-1.931667,"Millettia klainei",2013866715,"Parc National Loango, à gauche avant la piste d'attérissage.","GAB",NA,2004,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+9.383333,-2,"Millettia klainei",2013871260,"Loango National Park, Nick's camp, by Louri lagoon, c. 12 km south of Iguela.","GAB",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

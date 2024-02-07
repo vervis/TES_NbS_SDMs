@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.259167,0.5,"Begonia vittariifolia",4031659751,"Monts de Cristal, Mbe National Park, Mt. Mbilan Plateau, midslope facing plateau on expressed rock.","GAB",NA,2005,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+10.3,0.55,"Begonia vittariifolia",2515910463,"Crystal Mountains, 23 km on the road from Tchimbélé to Kinguélé.","GAB",NA,1991,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.983333,-0.683333,"Begonia vittariifolia",2013855089,"60km ESE de Ndjolé.","GAB",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+10.38333,0.66666,"Begonia vittariifolia",1261506097,"Monts de Cristal; Tchimbélé Dam region; along road below dam; forested slopes along creek.","GAB",NA,1991,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

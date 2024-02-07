@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-70,-3.03333,"Macrolobium wurdackii",1261494810,"Corregimiento de Tarapacá. Parque Nacional Natural Amaycayacu. Sector Lorena (R. Cotuhé) bosque de terra-firme. Parcela permanente #2. Cuadrado U24.","COL",NA,1992,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-66.16666,0.83333,"Macrolobium wurdackii",1260656240,"Vicinity of Cerro Neblina project base camp; just east of cmap along Bongo Trail, along south bank of Rio Mawarinuma.","VEN",NA,1984,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-65.9617,1.03563,"Macrolobium wurdackii",1320995719,"Cerro de La Neblina, Rio Yatua.","VEN",NA,1954,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-70.25,-3.783333,"Macrolobium wurdackii",1707515319,"Quebrada de Agua Pudre, ca. 1,5 km NE de desembocadura sobre el río Amacayacu","COL",NA,1991,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-75.65,1.65,"Macrolobium wurdackii",768760339,"Vereda Bajo Caldas, finca La Turbina","COL",NA,2002,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+-70.05,-3.05,"Macrolobium wurdackii",1062303612,"Parque Nacional Natural Amacayacu, Río Cotuhe","COL",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

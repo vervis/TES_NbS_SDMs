@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-60.2833,5.66667,"Dicymbe jenmanii",1456121296,"Top of escarpment above Timehri rock paintings, ±2 km SSW of Maipuri Falls","GUY",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-59.48,5.17,"Dicymbe jenmanii",1563253330,"Kaieteur National Park, near airstrip, Savanna and Bonnettia-Clusia scrub Islands","GUY",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-58.7017,4.7364,"Dicymbe jenmanii",2612133964,"Guyana","GUY",NA,1991,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;AMBIGUOUS_COLLECTION"
+-60.084167,5.433972,"Dicymbe jenmanii",3004367665,"Pegaima","GUY",NA,2012,"HUMAN_OBSERVATION","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;CONTINENT_DERIVED_FROM_COORDINATES"
+-59.5139,5.26767,"Dicymbe jenmanii",1928186207,"Kaieteur National Park, upper Mure Mure basin","GUY",NA,2014,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-59.9708,5.07917,"Dicymbe jenmanii",1456010144,"Pakaraima Mts., upper Ireng R., 1 km W of confl. of Ireng & Sukabi Rivers","GUY",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-59.48333,5.16666,"Dicymbe jenmanii",1260642925,"Potaro-Siparuni Region: Kaieteur National Park; near airstrip. Savanna and Bonnettia-Clusia scrub islands. On Guayana Sandstone.","GUY",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

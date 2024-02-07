@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+119.466667,-34.183333,"Acacia simulans",2514133081,"along the road to Mt Bland, Fitzgerald River National Park, Western Australia.","AUS",NA,1973,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

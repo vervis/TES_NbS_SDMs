@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+145.413889,-17.204167,"Comesperma anemosmaragdinum",2827512740,"Ridge running east of Mt Emerald, west of Tolga [17 12 15S 145 24 50.2E].","AUS",50,2013,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

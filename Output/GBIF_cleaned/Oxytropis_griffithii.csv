@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+69.4,34.5,"Oxytropis griffithii",615363691,"Kabul - Gardez, ca. 23 km from Gardez, Altimur P. (Kotal Tera); E Afghanistan/Velāyat-e Kābol","AFG",NA,1965,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+69,33.8,"Oxytropis griffithii",615363680,"Kotal-i-Shuturgardan, Logar Vy. - Alikhel (Jaji); E Afghanistan/Velāyat-e Lowgar","AFG",NA,1969,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+69.5,33.7,"Oxytropis griffithii",615363682,"Kotkai N (Jaji); E Afghanistan/Velāyat-e Paktīā","AFG",NA,1969,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+68,34.3,"Oxytropis griffithii",615363683,"Kotal-e Onay, P. top/Velāyat-e Vardak","AFG",NA,1969,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"

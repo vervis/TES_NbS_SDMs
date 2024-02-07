@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-84.82,10.26,"Lonchocarpus haberi",1261569586,"Cordillera de Tilarán. San Luis; Monteverde.","CRI",NA,1994,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-84.84,10.27,"Lonchocarpus haberi",1261568695,"Cordillera de Tilarán. Monteverde. Quebrada Guaria. Cerros. Alrededores de Finca de Cheché Núñez.","CRI",NA,1991,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-85.410833,10.897222,"Lonchocarpus haberi",4031714562,"Parque Nacional Guanacaste, Cordillera de Guanacaste, Estación San Ramón, Sector Gongora","CRI",NA,1995,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

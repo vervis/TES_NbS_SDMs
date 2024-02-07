@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.1,-12.92,"Plukenetia ankaranensis",1931330477,"Antsiranana. Special Reserve # 3, Ankarana, ca. 7 km SE of Matsaborimanga, trail between Camp Anglais and river (ca. 3 km SW Camp Anglais)","MDG",NA,1990,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

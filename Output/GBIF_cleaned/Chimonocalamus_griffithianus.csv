@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+95.33,29.33,"Chimonocalamus griffithianus",4045484719,NA,"CHN",NA,2010,"PRESERVED_SPECIMEN","COUNTRY_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

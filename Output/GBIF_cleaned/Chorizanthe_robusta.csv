@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-121.82602,36.9241,"Chorizanthe robusta",2451555989,"Upper Gallighan Slough, Buena Vista section of Ellicott Slough National Wildlife Refuge, northwest of Watsonville","USA",700,2004,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-122.04321,36.99256,"Chorizanthe robusta",2451555664,"Near the Pogonip Creek Trail, Pogonip Open Space Preserve, Santa Cruz","USA",407,2004,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-121.96206,37.01475,"Chorizanthe robusta",2451557199,"Rodeo Gulch Road (4.7 miles up), Soquel","USA",470,2007,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-122.01154,37.07374,"Chorizanthe robusta",2451558030,"Teacup Hill behind Scotts Valley High School, Glenwood Drive, Scotts Valley","USA",502,2005,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-121.85226,36.91808,"Chorizanthe robusta",2451557330,"Along path from campground to beach, Manresa State Beach","USA",409,2004,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-121.608,36.9085,"Chorizanthe robusta",2459164673,"Aptos, Aptos","USA",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

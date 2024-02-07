@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-25.04904,36.93329,"Rostraria azorica",1917091486,NA,"PRT",500,2002,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+-25.0809,37.00591,"Rostraria azorica",1917091480,NA,"PRT",500,2002,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

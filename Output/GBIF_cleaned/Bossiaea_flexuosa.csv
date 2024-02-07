@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+121.2,-33.12,"Bossiaea flexuosa",912235626,"Fields Road, 11.8 km N of intersection of Fields and Rollonds Roads, SW of Salmon Gums. Roe District, Western Australia.","AUS",0.2,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

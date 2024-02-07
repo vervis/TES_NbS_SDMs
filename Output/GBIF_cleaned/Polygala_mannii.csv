@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.3833,0.683333,"Polygala mannii",2269001056,"Monts de Cristal, c. 5 km along the road Asok - dam in the Tchimbélé River.","GAB",NA,1978,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+10.3333,0.65,"Polygala mannii",2269004409,"Est de Nkan.","GAB",NA,1968,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+10.15,0.883333,"Polygala mannii",2013864876,"Crystal Mountains, on transect H.","GAB",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+10.3667,0.616667,"Polygala mannii",2269013359,"7 km along the road Tchimbélé - Kinguélé.","GAB",NA,1983,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

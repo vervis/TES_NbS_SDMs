@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+136.54644,-33.64029,"Acacia praemorsa",2518465905,"Yeldulknie (CP)","AUS",50,2018,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES"
+139.645833,-33.641667,"Acacia praemorsa",2830365473,"Section 362, Hundred of Mann, north-western corner of scrub block, ca 3 km W of Glenville Homestead (=Yabmana).","AUS",1000,1989,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+136.616667,-33.666667,"Acacia praemorsa",2830056643,"28 km WNW of Cowell, 9.5 km E of Mt. Neild","AUS",1000,1979,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-106.131129,38.617517,"Eriogonum brandegeei",1930960072,"15.5 miles south of Buena Vista and 0.7 mile north of the junction of U.S. Highway 285 and Colorado Highway 291","USA",NA,1967,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-105.195145,38.543452,"Eriogonum brandegeei",2242397626,"9 miles N of Cañon City. Garden Park. At Eriogonum brandegeei Garden Park East","USA",NA,2012,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-105.97001,38.5179,"Eriogonum brandegeei",2242396145,"About 1.5 mi. S. of Salida near Arkansas River (ca. 50 ft uphill from 1.6 mi. parking spot.)","USA",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY"
+-105.980526,38.498645,"Eriogonum brandegeei",2242403326,"Ca. 1.74 air miles S of Salida. 1.33 miles east of FS Rd 108 within EO ID 5455. 7.5’ Wellsville quad.","USA",NA,2011,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

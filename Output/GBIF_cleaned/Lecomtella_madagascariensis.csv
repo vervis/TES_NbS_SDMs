@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.8922,-22.1313,"Lecomtella madagascariensis",3946834598,"Andringitra National Park; Amboakisy; bridge near camp 1","MDG",NA,2013,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.866667,-22.283333,"Lecomtella madagascariensis",1989828135,"Andringitra, Manjarivolo, Andrianony, au sud d'Andringitra Andrianony: Manjarivolo. South-Andringitra","MDG",NA,1970,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+46.784444,-22.319167,"Lecomtella madagascariensis",3946813012,"Antambohobe, district Ivohibe.","MDG",NA,1957,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

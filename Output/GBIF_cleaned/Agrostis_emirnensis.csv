@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+48.716667,-14.616667,"Agrostis emirnensis",1212478970,"Betainkankana","MDG",NA,1952,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+46.585833,-20.57225,"Agrostis emirnensis",1989828959,"Itremo, Ambatoantrano; Marécage près de la forêt galérie","MDG",NA,2014,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+46.891217,-22.1458,"Agrostis emirnensis",1989828484,"Riambavy waterfall, Andringitra National Park; at the base of the waterfall","MDG",NA,2013,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+47.338056,-19.342778,"Agrostis emirnensis",2313490257,"Station forestière de Manjakatompo. Near office at 1640 m elev; disturbed area partly of cultivated plants; on massif d'Ankaratra, w. of Ambatolampy","MDG",NA,1975,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+47.107981,-19.57104,"Agrostis emirnensis",1988058615,"Ankaratra, entre Antsampandrahana et Nanokely.","MDG",5000,1957,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+47.919444,-18.925,"Agrostis emirnensis",1988047673,"La Mandraka","MDG",9000,1951,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+125.31708,-15.41222,"Acacia barrettiorum",1929268401,"Acacia Flats, c. 20 km. due N of Kings Cascade Falls, Princess May Range, Prince Regent River Reserve","AUS",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

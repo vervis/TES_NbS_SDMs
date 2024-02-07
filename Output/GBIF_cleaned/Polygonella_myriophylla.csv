@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-81.7432,27.9633,"Polygonella myriophylla",2452263789,"Lake Wales Ridge National Wildlife Refuge, Lake McLeod","USA",NA,2019,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-81.634503,28.553192,"Polygonella myriophylla",1929490678,"14 south of Oakland.","USA",NA,1958,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-81.5375,27.6972,"Polygonella myriophylla",1503278948,"Hickory Lake Scrub.","USA",NA,2015,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_COLLECTION_MISMATCH"

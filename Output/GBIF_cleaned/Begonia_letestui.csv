@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+11.4,-1.73333,"Begonia letestui",2269001053,"60 km Mouila to Yeno.","GAB",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+12.218667,-2.041333,"Begonia letestui",4061071158,"Birougou National Park, Massif du Chaillu, 40 km SE of Mbigou, 5.5 E of Moukimbi village. Transect 8 A and B.","GAB",NA,2011,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+11.333333,-1.916667,"Begonia letestui",2516084731,"18 km on track from Bilengui to Mouila, Ogoulou River bridge.","GAB",NA,1991,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+11.333333,-1.666667,"Begonia letestui",2516226024,"40 km E of Mouila, along the road to Yeno.","GAB",NA,1986,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+11.383333,-1.95,"Begonia letestui",2515785744,"c. 5 km on forest exploitation track from Bilengui to Mouila.","GAB",NA,1991,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.548889,-0.778889,"Begonia letestui",2013889018,"zone de Mabounié, à 45 km au sud-ouest de Lambaréné, rive nord de la rivière Ngounié.","GAB",NA,2014,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

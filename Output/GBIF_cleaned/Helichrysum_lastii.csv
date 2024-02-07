@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+35.701354,-15.89302,"Helichrysum lastii",1935079673,"Mount Mulanje, path from Sombani to Ruo basin. Common on rocky mountainside and along path.","MWI",NA,1978,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+35.607011,-15.897012,"Helichrysum lastii",1937581077,"Mulanje Mountain, just below Tuchila Hut to west. UTM grid ref. 778-9: 8241.","MWI",0.5,1970,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+33.283333,-24.7,"Helichrysum lastii",1937580482,"Parque Nacional do Limpopo, perto do acampamento de fiscalização ao longo do rio periódico.","MOZ",NA,2004,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+35.283056,-15.331389,"Helichrysum lastii",1937580465,"Chiraszulo Peak, Zomba Plateau.","MWI",1,1984,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-79.23,-3.92,"Bothriochloa campii",1096750129,"Flora of Ecuador. Loja. Loja (terminal Terrestre) - San Lucas along old road km 8-12.","ECU",NA,1999,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;CONTINENT_INVALID;INSTITUTION_COLLECTION_MISMATCH"
+-79.53,-3.9,"Bothriochloa campii",1260007010,"Protected due to name conservation status","ECU",NA,1999,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-79.45,-3.95,"Bothriochloa campii",47735121,"San Pedro de la Bendita - Catacocha km 6. Grassed slope with thorny scrub.","ECU",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COORDINATE_PRECISION_INVALID;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+-79.02,-3.08,"Bothriochloa campii",4061780360,"Protected due to name conservation status","ECU",NA,1999,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-43.623333,-18.725278,"Chamaecrista coriacea",2998213070,"Costa Sena, Guritiba de cima, ca. De 10,6km saindo costa sena sentido a fazenda cachoeira.","BRA",NA,2005,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+139.41666,-33.91666,"Chamaecrista coriacea",1260727041,"Burra Creek Plain 18 km N of Mt. Mary.","AUS",NA,1981,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

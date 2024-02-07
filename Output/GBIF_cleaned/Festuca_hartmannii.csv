@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+74.3,35.9,"Festuca hartmannii",615323307,"Zaipur ; Astor, Ru/Northern Areas","PAK",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+83.9,28.1,"Festuca hartmannii",615323428,"Dzar; C. Nepal, Mustang, Muktinath/Western Region","NPL",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"

@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-73.390361,5.770111,"Aulonemia bogotensis",3766782555,"Parque Natural Regional El Valle. Parque Natural Regional El Valle. Páramo El Valle. On other side of river from low house.","COL",NA,2017,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-73.85,4.766,"Aulonemia bogotensis",47729103,"Páramo de Guasca, 14 km S of Guasca along road to Laguna de Siacha","COL",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COORDINATE_PRECISION_INVALID;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+-72.782889,6.212667,"Aulonemia bogotensis",1269777357,"Vereda Desaguadero","COL",NA,2015,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-73.140917,5.8525,"Aulonemia bogotensis",1269790478,"Vereda Carrizal","COL",NA,2014,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-74.109833,4.255417,"Aulonemia bogotensis",1707497345,"Parque Ecologico Matarredonda","COL",NA,2014,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-73.611548,10.611704,"Aulonemia bogotensis",2013810952,"Pueblo de Nabusimake, primera cresta grande sobre el valle entre Nabusimake y Pantano, en dirección de Duitama.","COL",3740,1998,"PRESERVED_SPECIMEN","COORDINATE_PRECISION_INVALID"

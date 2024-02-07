@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+32.901667,-26.05,"Viscum obovatum",2515998761,"Ilha de Inhaca, ao lado do mar, perto da Estação Maritima.","MOZ",NA,1984,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+48.564444,-19.143333,"Viscum obovatum",4061306945,"Atsinanana, Vatomandry, Ambalabe, Sahanionaka. Forêt de Vohibe, direction vers la rivière Vakoanina. Récoltés avec Tanjona, Mamy et Kôtsy. Échantillons préservés en alcool.","MDG",NA,2017,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.12555,-14.21611,"Viscum obovatum",4062188782,"Versant dans la vallée entre les 3 monts d'Ambohimirahavavy. Récolté avec H. Andriamiarinoro & Patrick.","MDG",NA,2005,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+32.166667,-26.016667,"Viscum obovatum",2515953700,"Namaacha, Impaputo Picada em direcção a Rio Impaputo.","MOZ",NA,1980,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+32.733333,-25.75,"Viscum obovatum",2517757517,"Marracuene, Macaneta.","MOZ",NA,1980,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.11666,-12.91666,"Cynanchum phillipsonianum",4031456750,"Réserve Spéciale d'Ankarana. Sur la piste vers le lac vert. Récolté avec B. Lewis, J. McDonagh, O. Andrianantoanina, F. Rasoavimbahoaka, D. Ravelonarivo, P.J. Rakotomalaza, M. Randriambololona & M. Andrianarisata.","MDG",NA,1994,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

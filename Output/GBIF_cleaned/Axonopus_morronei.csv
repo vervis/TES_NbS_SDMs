@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-71.219722,5.551111,"Axonopus morronei",1064634909,"Hato Chaparrito","COL",NA,2003,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84"
+-70.757178,6.516978,"Axonopus morronei",1570684837,"Vereda Ele Perocero, predio Villa Mar","COL",31,2013,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-73.93871,3.31638,"Axonopus morronei",1898902097,"Alrededores de la Estacion Biologica La Curia.","COL",2982,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID"
+-72.2925,2.775278,"Axonopus morronei",2013781551,"Inspección de la Fuga, sitio filo del hambre.","COL",NA,1997,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-69.010121,1.880109,"Axonopus morronei",1934716686,"Municipio de Panapaná, cerca a la comunidad de Campoalegre","COL",NA,2014,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

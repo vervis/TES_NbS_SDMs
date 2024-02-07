@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+47.26666,-19.33333,"Trifolium ankaratrense",1260309593,"Ankaratra (route Ambatolampy - Faratsiho).","MDG",NA,1957,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+47.26666,-19.38333,"Trifolium ankaratrense",4061712865,"Ankaratra (route Ambatolampy-Faratsiho)","MDG",NA,1955,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

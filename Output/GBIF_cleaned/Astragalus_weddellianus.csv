@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-70.721389,-16.138611,"Astragalus weddellianus",4061100315,"Distrito Ubinas. Coalaque; Alrededor de la laguna Cochapata.","PER",NA,2009,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-65.85,-22.58,"Astragalus weddellianus",1928220347,"Moreta","ARG",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-70.561389,-16.101389,"Astragalus weddellianus",4062112386,"Distrito Ichuña. Ichuña; Cachilaya, Apacheta.","PER",NA,2009,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-70.530833,-16.173889,"Astragalus weddellianus",1257678918,"Distrito Ichuña. Coriri; Coriri, Qaqasquingri.","PER",NA,2009,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-65.78138,-23.93833,"Astragalus weddellianus",4060866410,"Depto. Tumbaya: San José de Chañi, S of El Moreno, 40 km S of the intersection of rtes 16 and 40, along rte 16 and then a side road. Low, dry scrub. Plants treated with alcohol before drying.","ARG",NA,1994,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-70.02,-16.8,"Astragalus weddellianus",1930071922,"Juli. Road from Santa Rosa to Moquegua, near Laguna Loriscota","PER",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-66.85,-22.58333,"Astragalus weddellianus",1260264967,"Moreta.","ARG",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

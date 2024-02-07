@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+42.25,9.23,"Erythrina burana",1676028305,"Harar Prov. Ethiopia, Errer valley, 22km. SE of Harar on hwy. to Djig-Djigga (Jijiga)","ETH",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+42.09,9.23,"Erythrina burana",912497851,"10 km south along road SSW of Harar","ETH",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+42.016667,9.4,"Erythrina burana",2515769798,"around College of Agriculture, Alemaya.","ETH",NA,1976,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+42.4,9.05,"Erythrina burana",2517396327,"Dakata Valley, 63km from College gate of College of Agriculture, Alemaya.","ETH",NA,1975,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+39.52,5.87,"Erythrina burana",912497809,"Bale: 21 km N of Ganale River on Road from Negele & Bitata to Dolo Menna;","ETH",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

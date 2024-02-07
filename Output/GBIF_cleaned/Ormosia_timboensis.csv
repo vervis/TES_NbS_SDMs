@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-39.476111,-12.863333,"Ormosia timboensis",1424316358,"Serra da Jibóia, Reserva do GAMBA. Área brejosa ao lado das parcelas do bloco B.","BRA",NA,2009,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-38.895556,-13.113333,"Ormosia timboensis",1944983666,"Conglomerado BA_946-4-3-8","BRA",NA,2016,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+-39.665,-13.1622,"Ormosia timboensis",1928772483,"Amargosa: Serra do Timbó. Area de estudios do projeto Timbó/Centro Sapucaia","BRA",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

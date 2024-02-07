@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-119.475556,41.48,"Astragalus tiehmii",1846507890,"Yellow Hills area at junction of High Rock Canyon and Massacre Lakes road","USA",NA,1984,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-119.33,41.51,"Astragalus tiehmii",1930543825,"Yellow Bald Spot on road 1/2 mile south of turnoff to windmills","USA",NA,1983,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-119.51,41.12,"Astragalus tiehmii",1927993872,"Grass Valley: 1.0 mile NNW of Grass Valley Reservoir, 1.1 miles N85°E of Ferdaline Spring","USA",NA,1991,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-119.50377,41.21753,"Astragalus tiehmii",3902316720,"","USA",8,2022,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+-119.49,41.22,"Astragalus tiehmii",1931055552,"Highway 34 from Gerlach to Vya, southeast corner of the road junction to Lost Creek and Squaw Valley Ranch","USA",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-119.354333,41.519867,"Astragalus tiehmii",1986981796,"Foothills W of Butcher Flat and NW of large bend in road from Hanging Rock Canyon to Wall Canyon","USA",1100,2010,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+48.28333,-14.06666,"Bonamia tsivory",4062216027,"Réserve Spéciale de Manongarivo. Besinkara. Anabotoaka, en bordure du village, rudérale.","MDG",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+47.881945,-13.683889,"Bonamia tsivory",1257991497,"Forêt de Bekalanoro.","MDG",NA,2013,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-60.27983,5.6922,"Calliandra pakaraimensis",1927901329,"Imbaimadai vicinity. on East side of Partang River. 0.12 miles East of Partang River base camp","GUY",NA,2002,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-60.216667,5.566667,"Calliandra pakaraimensis",1930958419,"Chi-Chi Mountain Range, ±2 km W of Chi-Chi Falls; S bank of Mazaruni River","GUY",NA,1987,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-61.5,5.58,"Calliandra pakaraimensis",1931103246,"En los alredores del paso sobre el Río Aponwao.","VEN",NA,1983,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-60.13,5.72,"Calliandra pakaraimensis",1928375905,"Pakaraima Mts. Upper Mazaruni River Basin. Karowrieng River. Unnamed peak NW of Maipuri Falls.","GUY",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

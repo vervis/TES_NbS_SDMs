@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+47.15,-24.76666,"Dauphinea brevilabra",4061236634,"Préfecture de Tôlan|2aro (Fort-Dauphin); Ste. Luce (Nord).","MDG",NA,1990,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_NON_NUMERIC;DIFFERENT_OWNER_INSTITUTION"
+47.18,-24.77,"Dauphinea brevilabra",912322549,"Préfecture de Tolanaro, forêt route de Ste. Luce; partie Nord","MDG",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

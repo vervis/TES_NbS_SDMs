@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-50.191389,-6.905556,"Panicum parviflorum",1314812103,"Parauapebas","BRA",NA,2012,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-71.38804,4.50338,"Panicum parviflorum",2013946164,"Sabana Matepalma","COL",3,2018,"HUMAN_OBSERVATION",""
+-71.39797,4.49184,"Panicum parviflorum",2013945574,"Sabana Banco De Palmarito","COL",3,2018,"HUMAN_OBSERVATION",""
+-72.32784,3.2806,"Panicum parviflorum",2013947201,"Hato Mararay - Sabana Naja Cerca A Casa","COL",3,2018,"HUMAN_OBSERVATION",""

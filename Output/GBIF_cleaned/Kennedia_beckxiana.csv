@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+118.31666,-33.93333,"Kennedia beckxiana",1258893935,"Ca 20 km by road NNE of Borden on main road to Lake Grace.","AUS",NA,1977,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+150.57,-33.7,"Kennedia beckxiana",3128803174,"Springwood.","AUS",2000,1970,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

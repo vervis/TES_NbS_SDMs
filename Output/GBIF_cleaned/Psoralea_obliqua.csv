@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+19.287,-33.4755,"Psoralea obliqua",1948729407,"","ZAF",1,2015,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+18.869917,-34.041759,"Psoralea obliqua",3113300397,"","ZAF",61,2020,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+18.956008,-33.989175,"Psoralea obliqua",2444956463,"","ZAF",4,2019,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+19.16666,-33.61666,"Psoralea obliqua",1258285125,"Observation Peak steep N slope rock cover slope 20-30%; ridge 70-80% (85% of which are restionaceae and Cyperaceae) vegetation cover in rock free areas; slope 95%, ridge 75% height slope 40-50 cm (protea overstorey of 80-100 cm) ridge 20-30 cm.","ZAF",NA,1986,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

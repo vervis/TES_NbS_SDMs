@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+17.433055,1.366388,"Newtonia devredii",1839409862,"Likouala Department: Nsassa Forest, 2 km W of Epena. Lac Télé Community Reserve","COG",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+12.2283,-2.3921,"Newtonia devredii",4062225092,"Monts de Birougou; 14 km au sud du Parc National.","GAB",NA,2011,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

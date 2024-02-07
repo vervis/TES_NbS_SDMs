@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+115.141667,-29.866667,"Acacia telmica",1260080678,"Open eucalyptus woodland with A. saligna, A. blakelyi. Moist grey-brown loam in low-lying area adjacent to lake periphery. SE margin of Lake Logue, c. 0.2 km. N. of causeway on Eneabba-Leeman Road, 12.5 km. W. of Brand Highway.","AUS",NA,1988,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

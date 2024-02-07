@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-123.7998321,39.4407953,"Chorizanthe howellii",3053470277,"Fort Bragg","USA",NA,1962,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

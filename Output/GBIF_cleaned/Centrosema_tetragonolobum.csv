@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-67.583333,5.533333,"Centrosema tetragonolobum",4061056316,"16 km S de Puerto Ayacucho via a Samariapo","VEN",NA,1986,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-67.943333,5.305556,"Centrosema tetragonolobum",1707573090,"Corregimiento Santa Rita, sobre la margen izquierda aguas arriba del río Tomo, a 24 km de la confluencia de éste con el río Orinoco (a 20,5 km del puerto del parque)","COL",NA,2004,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-67.865944,5.335746,"Centrosema tetragonolobum",1844938661,"Centro administrativo.","COL",379,1971,"PRESERVED_SPECIMEN","COORDINATE_PRECISION_INVALID"
+-67.33,5.8,"Centrosema tetragonolobum",1456099503,"Puerto Ayacucho, 33 km NE of; near Caserío de Rincones de Chacorro","VEN",NA,1978,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-47.5167,-13.9376,"Chamaecrista chrysosepala",1931121829,"Chapada dos Veadeiros, ca. 20 km by road N of Alto Paraíso","BRA",5000,1973,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-43.034444,-16.852778,"Chamaecrista chrysosepala",4015734355,"Campina. Parque Estadual de Botumirim","BRA",NA,2022,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-47.444722,-14.131111,"Chamaecrista chrysosepala",3800710550,"Chapada dos Veadeiros, trilha para a cachoeira do Sertão Zen, Cabeceira do rio Macacão.","BRA",NA,2021,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+-42.8943,-16.5648,"Chamaecrista chrysosepala",1930864722,"Grao Mogol, arredores","BRA",NA,1978,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-47.71316,-13.92497,"Chamaecrista chrysosepala",1930044669,"Chapada dos Veadeiros, ca. 30 km N.W. of Veadeiros","BRA",5000,1966,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"

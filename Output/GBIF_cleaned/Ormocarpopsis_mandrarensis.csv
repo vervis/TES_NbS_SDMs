@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.72083,-24.77277,"Ormocarpopsis mandrarensis",1260872021,"Région Anosy, Fort-Dauphin, Ambatoabo, Ankoba. Forêt d'Ankoba à 12 km au Nord-est d'Ambatoabo. Forêt subhumide. Récolté avec F. Ratovoson, J. Aronson, E. Buisson, Fiadana & Sylvain.","MDG",NA,2008,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.6,-24.88333,"Ormocarpopsis mandrarensis",437818132,"","MDG",NA,1954,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"
+46.13333,-22.4,"Ormocarpopsis mandrarensis",1260859932,"Colline au-dessus d'Ihosy, Dans végétation à Didiéracées","MDG",NA,1960,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.7,-24.6,"Ormocarpopsis mandrarensis",1260453226,"Behara Amboasary","MDG",NA,1958,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.38333,-24.95,"Ormocarpopsis mandrarensis",438446530,"","MDG",NA,1958,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

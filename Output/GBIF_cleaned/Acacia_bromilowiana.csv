@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+117.75,-22.76,"Acacia bromilowiana",912593431,"Southern Ridge, Tom Price WA Lat. 22°45'49.400S Long. 117°44'59.200E GDA94","AUS",0.2,2006,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

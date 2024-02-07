@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-60.6025,3.22,"Luetzelburgia guianensis",1928431501,"Vila do Passarão. Fazenda Velha. Arredores do Igarapé da Vicensa.","BRA",NA,2010,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-60.6,-3.22,"Luetzelburgia guianensis",1042683195,"Vila do Passarão. Fazenda Velha. Arredores do Igarapé da Vicensa. Área de contato cerrado-floresta estacionamento seca, com presença de Anadenanthera colubrina, Cereus sp. E Randia sp.","BRA",NA,2010,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;ELEVATION_MIN_MAX_SWAPPED;INSTITUTION_MATCH_NONE"
+-59.833333,2.75,"Luetzelburgia guianensis",1424042761,"Ruounudi Disatrict, Kusad Mountais.","GUY",NA,1992,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

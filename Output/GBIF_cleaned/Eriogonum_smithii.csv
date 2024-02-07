@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-110.395833,38.508611,"Eriogonum smithii",1929280448,"San Rafael Desert, slope below edge of flat about Dugout Creek, 1.5 airmiles northeast of Texas Hill (in Wayne Co.) and about 17.3 miles southeast of Utah Highway 24","USA",NA,2002,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-111.473794,38.417201,"Eriogonum smithii",1930745763,"Ca. 0.3 mi east flat top well on road to Maze, ca 14.1 mi east of Utah Hwy 24.","USA",NA,1970,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-110.62,38.6,"Eriogonum smithii",1931168430,"Little Gilsen Butte, ca 1 mi W of Hwy 24.","USA",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-116.002235,33.729828,"Eriogonum smithii",2545469156,"","USA",NA,2012,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84"
+-115.355392,33.040817,"Eriogonum smithii",2545496582,"","USA",NA,2013,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84"
+-110.67,39.05,"Eriogonum smithii",3799479646,"Ca 2.5 miles north of the Wedge Overlook.","USA",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

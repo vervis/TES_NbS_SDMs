@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+30,-22.216667,"Adenia spinosa",1260518148,"Beitbridge, Rhodesia, Sentinel Ranch","ZWE",NA,1973,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+31.18,-22.43,"Adenia spinosa",3350297664,"Limpopo, Kruger National Park, Kruger National Park, Nxanatseni Far North Region, Parfuri section","ZAF",NA,2007,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+43.76666,-24.03333,"Operculicarya hyphaenoides",4061285001,"Sud-Ouest: Plateau calcaire dominant la rive Nord-Est du Lac Tsimanampetsotsa.","MDG",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+43.88333,-24.5,"Operculicarya hyphaenoides",1258703289,"Sud: Route Efoesty à Itampolo, à environ 15-20 Km d'Itampolo","MDG",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+43.75166,-23.52361,"Operculicarya hyphaenoides",4061776875,"","MDG",NA,2006,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+43.77916,-23.41555,"Operculicarya hyphaenoides",4061060927,"","MDG",NA,2006,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

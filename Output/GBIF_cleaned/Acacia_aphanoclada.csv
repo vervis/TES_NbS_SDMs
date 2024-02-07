@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+120.1483,-21.6756,"Acacia aphanoclada",2436663483,"23.8 km N of Nullagine, 7.8 km E of Hales Grave Well, 4.1 km SE of Lionel Mining Centre, 20.3 km NNW of Blue Speck Mining Centre.","AUS",1000,2004,"PRESERVED_SPECIMEN","TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

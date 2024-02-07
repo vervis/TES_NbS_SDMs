@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+124.933333,-16.833333,"Decaisnina biangulata",2516868555,"Flora of Western Australia. Talbot Creek, tributary of Barker River, 3 km SE of Mt Hart Homestead, N.W. Kimberley.","AUS",NA,1987,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

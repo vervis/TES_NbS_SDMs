@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-179.5,71.33,"Oxytropis uschakovii",1146386947,"Wrangel I., Sovietskaia Mtn. area, Khishchnikov R. basin, upper reaches of the river, upper Lagernyi Creek","RUS",3615,1969,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;CONTINENT_DERIVED_FROM_COORDINATES;AMBIGUOUS_INSTITUTION"
+-179.46916,71.16336,"Oxytropis uschakovii",2576263148,"","RUS",50,2014,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

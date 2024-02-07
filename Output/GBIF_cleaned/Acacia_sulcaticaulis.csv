@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+116.97,-29.17,"Acacia sulcaticaulis",912593436,"Mount Mulgine, Warriedar Station, ca 80 km E of Marawa WA Lat. 29°10'12.600S Long. 116°57'56.600E GDA94","AUS",0.2,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

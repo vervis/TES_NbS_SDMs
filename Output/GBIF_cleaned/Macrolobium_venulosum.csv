@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-67.0908182,-0.1335691,"Macrolobium venulosum",1928730005,"Alto Rio Negro, estrada para Camanaús, logo após o entroncamento da estrada para o Aeroporto.","BRA",NA,1987,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY"
+-67.05,1.933333,"Macrolobium venulosum",1042482740,"San Carlos de Río Negro, Territorio Federal do Amaznoas, San Carlos de Rio Negro, ca. 20 km S of confluence of Rio Negro and Brazo Casiquiare.","VEN",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;ELEVATION_MIN_MAX_SWAPPED;INSTITUTION_MATCH_NONE"
+-61.644444,-9.634722,"Macrolobium venulosum",1852374328,"Reserva Biológica do Jaru, Unidade amostral 2 (Ponto amostral Norte). Reserva Biológica do Jaru","BRA",NA,2017,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-62.2167,5.9167,"Macrolobium venulosum",1318954359,"Rio aparaman at sse base of amaruy-tepui. e of auyan-tepui, w of aparaman-tepui","VEN",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-70.19,1.29,"Macrolobium venulosum",1416801939,"laguna Marucuarí, comunidad Tucunaré, vegetación a orilla de espejo de agua","COL",NA,2012,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+-71.81,-0.86,"Macrolobium venulosum",1932874238,"margen der. río Caquetá (S), 3km arriba de la qda. El Quinché, bosque mal drenado, llanura aluvial","COL",NA,1990,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+-75.25,0.84,"Macrolobium venulosum",1416800945,"Vereda Potreros, laguna Potreros, Caño La Magiña","COL",NA,2007,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

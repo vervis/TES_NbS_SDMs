@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.9483,-1.00167,"Bikinia aciculifera",4061305796,"c. 10 km on the road Ikobey to Sindara.","GAB",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+10.5117,-1.21667,"Bikinia aciculifera",4062020275,"Fougamou, 12 km on forestry road following Bendolo river.","GAB",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+10.4269,-1.16125,"Bikinia aciculifera",2268999829,"along a forestry road of chantier EFT (Exploitaion Forestière de Tsanba) starting at Ndjemba village on Fougamou-Lambaréné road.","GAB",NA,2009,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+11.014667,-1.041167,"Bikinia aciculifera",2517837487,"forest North of 3 km on the road Ikobey to Bakongue.","GAB",NA,2001,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.46446,-1.18755,"Bikinia aciculifera",4061681936,"Concession forestière (EFT).","GAB",NA,2009,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+10.271028,-1.751111,"Bikinia aciculifera",2517629493,"road from Mandji to Rabi, 18 km W of Mandji, Sentier Botanique.","GAB",NA,2011,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.416667,-2.333333,"Bikinia aciculifera",2516090130,"Exploitation CEB ± 50 km W de Doussala. Forêt 1è","GAB",NA,1987,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

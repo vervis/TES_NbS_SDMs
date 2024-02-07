@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-115.3009234,35.2527143,"Astragalus gilmanii",2242357639,"New York Mts., Caruthers Canyon drainage, 0.94 mi. 73° ENE of Drum Peak, 1.9 mi. 36°NE of Drum Peak.","USA",NA,2004,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-117.0912,36.2123,"Astragalus gilmanii",3053450416,"ridge between Bennett Peak and Rogers Peak","USA",400,1961,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-116.12317,36.53483,"Astragalus gilmanii",1928915522,"Gravelly wash along SR 160, about 2 miles (by air) south of US 95","USA",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-117.136265,36.115622,"Astragalus gilmanii",2270268454,"Surprise Canyon, Panamint Mts.","USA",6000,1972,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;AMBIGUOUS_INSTITUTION"

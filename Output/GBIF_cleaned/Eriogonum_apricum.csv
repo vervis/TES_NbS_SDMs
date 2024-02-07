@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-120.89647,38.32442,"Eriogonum apricum",3125218522,"2 miles north-northeast of Buena Vista","USA",NA,1954,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-120.8188,38.3531,"Eriogonum apricum",3125213544,"North base of a hill just west of a point on state hwy 104, 0.5 mi south of state Hwy 88.","USA",3500,1978,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-120.9605,38.42065,"Eriogonum apricum",2451556942,"W of Irish Hill Rd c. 3 mi N of its junction with Hwy 104 c. 5 mi NW of Ione","USA",1941,1986,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-121.00226,38.4506,"Eriogonum apricum",2451554351,"Carbondale Mesa c. 0.5 mi N of Old Lambert Rd o.2 mi N of its junction with Brush Rd near Ione","USA",1682,1986,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

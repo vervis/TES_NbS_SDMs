@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-116.8101,36.9357,"Lathyrus hitchcockianus",3053383735,"Bullfrog Hills, Amargosa drainage, ca. 2 mi E of Sawtooth Mtn","USA",500,1982,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-116.8694,36.926,"Lathyrus hitchcockianus",3053422697,"Bullfrog Hills, Amargosa drainage, S of Sawtooth Mtn","USA",1250,1982,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-117.0523,36.137,"Lathyrus hitchcockianus",1929312124,"on the road to the Gold Bar Mining Claim and the road to Buck Spring, Bullfrog Hills, Death Valley National Monument","USA",NA,1978,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-117.1207,36.9442,"Lathyrus hitchcockianus",1931290919,"Bullfrog Hills, west of Sawtooth Mountain, near boundary of Death Valley National Park","USA",NA,1995,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-116.808358,37.012939,"Lathyrus hitchcockianus",4062634424,"","USA",6,2022,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+-119.710312,40.703312,"Lathyrus hitchcockianus",2545488271,"","USA",NA,2011,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84"
+-116.459047,37.966379,"Lathyrus hitchcockianus",1990273503,"No locality information available","USA",NA,1971,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

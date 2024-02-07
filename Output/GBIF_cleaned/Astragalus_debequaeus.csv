@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-108.1848,39.2448,"Astragalus debequaeus",1930194615,"Ca. 6 mi S of Debeque","USA",NA,1985,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-108.139643,39.205776,"Astragalus debequaeus",3855923390,"Atwell Gulch, part of Wasatch Formation, DeBeque Cutoff road ca 5.5 mi S of Interstate 70.","USA",1506,1989,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-108.4826,39.3458,"Astragalus debequaeus",1931315195,"ca. 1.5 miles w of junction of Corcoran Wash Road and North Dry Fork","USA",NA,1986,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-109.1,40.21,"Astragalus debequaeus",3798084016,"W slope of Squaw Ridge, ca 5 mi S of Hwy 40, 4 mi W of CO border.","USA",NA,1982,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

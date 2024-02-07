@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+116.33,5.83,"Medinilla amplectens",1095980074,"Borneo, Sabah, Penampang distr., Crocker Range 51.8 km on Kota Kinabalu-Tambunan Road","MYS",NA,1984,"PRESERVED_SPECIMEN","TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;PRESUMED_NEGATED_LONGITUDE;INSTITUTION_COLLECTION_MISMATCH"
+116.6,6.03,"Medinilla amplectens",2235974621,"Borneo. Sabah. Ranau District: NE of Mt. Kinabalu golf course site between East Mesilau and Mentaki Rivers.","MYS",NA,1984,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+116.35,5.766667,"Medinilla amplectens",2513087407,"MalaysiaSabahPenampang Distr: Crocker RangeKm. 51.8 on Kota Kinabalu Tambunan","MYS",NA,1984,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+116.616667,6,"Medinilla amplectens",2516487125,"Across the Pinosuk plateau, between Sg. Mesilau and Sg. Berambang.","MYS",NA,1969,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+116.783333,5.333333,"Medinilla amplectens",2514376219,"Liwagu and Bt. Brong trail, near HQ, Kinabalu N.P.","MYS",NA,1969,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+114.583333,1.583333,"Medinilla amplectens",2514495209,"Bukit Tibang, On Indonesian border, In the extreme headwaters of the Balleh river.","MYS",NA,1985,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

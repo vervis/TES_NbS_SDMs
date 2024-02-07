@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-121.568922,39.589538,"Trifolium jokerstii",3053364660,"sides of a drainage, ca. 0.5 mi SW of the lone pine tree on the rim of Beatson Hollow, ca. 1.25 mi NW of the iron gate on the N side of Cherokee Rd, N Table Mtn, ca. 7 mi (air) N of Oroville","USA",656,2012,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

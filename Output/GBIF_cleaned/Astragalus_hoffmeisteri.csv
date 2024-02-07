@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+79.8,31.48,"Astragalus hoffmeisteri",4043916396,"","CHN",NA,1976,"PRESERVED_SPECIMEN","COUNTRY_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

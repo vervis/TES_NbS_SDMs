@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-67.02,18.15,"Poitea punicea",1928244175,"Municipio San German, Barrio Rosario Alto; Rt. 119 ca. 4 km north of intersection with Rt. 348","PRI",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-66.98282,18.14594,"Poitea punicea",1930279692,"Maricao Forest Reserve, old road near stone house.","PRI",NA,1992,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-66.93309,18.173115,"Poitea punicea",1931120271,"","PRI",NA,1963,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY"
+-66.312606,18.109614,"Poitea punicea",1931160096,"Between Aibonito and Coamo.","PRI",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-66.79573,18.38847,"Poitea punicea",3902523871,"","PRI",48,2022,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

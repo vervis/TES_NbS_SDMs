@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-86.52,13.5,"Coursetia paucifoliolata",1675828299,"Departamento Madriz: Cerro Quisuca, summit and upper slopes","NIC",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;CONTINENT_INVALID"
+-86.516667,13.516667,"Coursetia paucifoliolata",1258705953,"Cerro Quisuca, summit and upper slopes.","NIC",NA,1980,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

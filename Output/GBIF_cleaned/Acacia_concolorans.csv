@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+119.55,-31.63,"Acacia concolorans",912619326,"NE end of Parler Range, 47.5km due SSE of Southern Cross.","AUS",0.2,1983,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+121.11528,-26.68972,"Acacia concolorans",1144582446,"Western Australia - Western Australia. Loc. NE end of Parker Range, 47.5km due SSE of Southern Cross/State of Western Australia","AUS",NA,1983,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

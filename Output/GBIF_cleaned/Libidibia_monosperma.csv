@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-69.23,18.4533,"Libidibia monosperma",1319241739,"Río Soco, 0.7 km antes del puente sobre el rio, en el lado S de la carretera San Pedro de macorís-La Romana","DOM",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-67.07262,18.03388,"Libidibia monosperma",1929824079,"Experimental Station.","PRI",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-68.57,18.77,"Libidibia monosperma",1928258340,"Llano Costero: aprox 0.5 Km al norte del poblado rural de El Macao, en un potrero no lejos del Río Anamuya.","DOM",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-65.419394,18.123398,"Libidibia monosperma",1928544787,"","PRI",NA,1978,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+13.92,-1.62,"Aphanocalyx obscurus",1252657057,"Haut-Ogooue, c. 46 km on the road from Franceville to Lekoni, Boubou 1","GAB",0.2,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+14.00944,-1.97138,"Aphanocalyx obscurus",1258833946,"Batéké Plateau, Mpassa River watershed. Station of the Projet de Protection des Gorilles. Riverine forest of Mpassa River. Collections alcohol dried.","GAB",NA,2001,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+18.316667,-2.25,"Aphanocalyx obscurus",1839536446,"Patambalu, Lac Léo II","COD",NA,1952,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+13.660556,-2.324444,"Aphanocalyx obscurus",2515983619,"near Simonbondo, Ogooué-Leketi proposed National Park.","COG",NA,2009,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

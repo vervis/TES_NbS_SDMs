@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-79.73333,0.35,"Bauhinia esmeraldasensis",4031427429,"Bilsa Biological Station. Mache Mountains, 35 KM W of Quinindé 5 KM W of Santa Isabel. Premontane wet forest. Recently logged mature and disturbed forest along old road to Mono.","ECU",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

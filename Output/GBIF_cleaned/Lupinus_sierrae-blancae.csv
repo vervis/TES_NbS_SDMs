@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-105.736286,33.456288,"Lupinus sierrae-blancae",1927776879,"Bonita Lake at NE base of Sierra Blanca mountains.","USA",NA,1974,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-105.7247,32.9625,"Lupinus sierrae-blancae",1929456718,"1.6 km E of Cloudcroft on US Hwy. 82 ca 0.5 km E of junction with NM Hwy. 24, N center S4. N-facing slope.","USA",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-106.739358,36.799442,"Lupinus sierrae-blancae",1843813972,"Several miles E. of Horse Lake.","USA",1000,1954,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+-105.542481,32.698608,"Lupinus sierrae-blancae",1990463091,"","USA",NA,2018,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+-105.83767,33.479003,"Lupinus sierrae-blancae",1850954195,"","USA",6,2018,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+-105.7326,33.2244,"Lupinus sierrae-blancae",1927997217,"White Mtns., in Eagle Creek Canyon, 3 air mi W of Alto, on USFS-127 1/2 mi N of NM-532 (N edge of sec. 36). For about 1/2 mi on flat areaas above Eagle Creek.","USA",NA,1981,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"

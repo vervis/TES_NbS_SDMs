@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-69.97,18.65,"Coccoloba nodosa",1930703111,"Serpentine mountain of Sierra Prieta, at town of Sierra Prieta (half-way between Villa Mella and Yamasá).","DOM",NA,1981,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-70.2,18.78,"Coccoloba nodosa",1929604911,"Sierra de Yamasa. 23 Km del parque central de Yamasa en la carretera a Villa Maimón.","DOM",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-69.77,18.87,"Coccoloba nodosa",1928767369,"Cruce de Toñe, Km. 12 al S de Sabana Grande de Boya, carretera a Monte Plata.","DOM",NA,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-69.5917,18.8,"Coccoloba nodosa",1930558064,"aprox. 7 km. al N de Bayaguana, Cornatillo, en el lugar llamado Managua a orillas de la carretera que conecta con Cornatillo","DOM",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

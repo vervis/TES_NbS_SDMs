@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-114.01,41.94,"Astragalus anserinus",1928038101,"Type locality near Goose Creek 4 miles south of the Idaho-Utah border","USA",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-114.19319,41.83519,"Astragalus anserinus",1930323452,"Ca. 1 miles west of Cedar Mountain Draw, ca. 4 miles north of Cedar Mountain","USA",NA,2006,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-113.959236,42.046956,"Astragalus anserinus",1930569967,"0.8 mile west of Goose Creek road on Coal Banks Creek road","USA",NA,1989,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-114.35,41.72,"Astragalus anserinus",1930656299,"Delano Mountains, 3.1 road miles east of Rock Springs on the road to Delano and Crittenden Reservoir","USA",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-116.66,41.97,"Astragalus anserinus",1931369932,"Owyhee Desert, 0.5 road mile northeast of the South Fork of the Owyhee River along the gas pipeline road","USA",NA,1999,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-113.98,42,"Astragalus anserinus",1929955316,"Goose Creek drainage, ca. 0.25 mile south of Idaho-Utah line","USA",NA,1990,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

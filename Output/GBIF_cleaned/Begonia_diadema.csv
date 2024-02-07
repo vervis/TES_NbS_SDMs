@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+55.460833,-21.014722,"Begonia diadema",2980820354,"","REU",2025,2015,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+55.55622,-21.13597,"Begonia diadema",3841047426,"","REU",NA,2018,"HUMAN_OBSERVATION","COUNTRY_MISMATCH;CONTINENT_DERIVED_FROM_COORDINATES"
+-76.4966,42.4406,"Begonia diadema",1503281404,"Ithaca, Bailey Hortorium and Department of Floralculture Conservatory, Cornell University.","USA",NA,1965,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_COLLECTION_MISMATCH"

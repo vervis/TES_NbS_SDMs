@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-6.7,38.5,"Astragalus nitidiflorus",128019527,"La Parra: 29SQC06","ESP",NA,1993,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-6.61,38.51,"Astragalus nitidiflorus",3311389732,"","ESP",550,1997,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+-1.1247,37.6542,"Astragalus nitidiflorus",1936355840,"colectada en el Vivero Forestal del Valle, por gentileza de F.J. Sánchez (Dirección General de Medio Natural de Murcia), procedente de semillas recogidas en Cartagena, Pérez Bajos","ESP",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-1.1,37.7,"Astragalus nitidiflorus",3949682324,"","ESP",8808,2021,"HUMAN_OBSERVATION","COUNTRY_DERIVED_FROM_COORDINATES;CONTINENT_DERIVED_FROM_COORDINATES"

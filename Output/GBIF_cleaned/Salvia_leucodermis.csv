@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.76666,-22.11666,"Salvia leucodermis",1259677645,"Canton : Vohitsaoka. District : Ambalavao","MDG",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+47.3,-19.36666,"Salvia leucodermis",1259372769,"Manjakatompo","MDG",NA,1951,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.88333,-22.15,"Salvia leucodermis",4061996818,"Dans la Réserve Naturelle Intégrale nº 5 Andringitra, près de la montagne rocheuse Vangomena, sur le plateau de Soaindrana.","MDG",NA,1994,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.91666,-22.21666,"Salvia leucodermis",1259377417,"Sendrisoa, district Ambalavao.","MDG",NA,1952,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+47.2775,-20.749722,"Salvia leucodermis",2268832630,"Amoron'i Mania, Commune Ambalamanakana, Fkt Ambatomainty, Inselberg Maharavana. Inselberg côté droit sur la route Ivato - Antoetra, ca. 19 km du sud-Est d'Ivato, ca. 5 km NO d'Antoetra.","MDG",NA,2015,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+47.26666,-19.33333,"Salvia leucodermis",1259372781,"Pente rocailleuse, Ankaratra.","MDG",NA,1955,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+46.13333,-18.8,"Salvia leucodermis",1259372767,"Mont Ambohiby (Mandrosoa), PK 20 d'Ambatofotsy.","MDG",NA,1973,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

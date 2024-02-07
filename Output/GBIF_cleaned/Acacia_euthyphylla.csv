@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+121.77,-33.35,"Acacia euthyphylla",912619369,"Truslove Reserve (near water reserve c. 0.5km south of northern boundary of Reserve), c. 11 km due NNE of Scaddan.","AUS",0.2,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+116.812105,-34.993735,"Acacia euthyphylla",2610076222,"Frankland River at Nornalup.","AUS",8200,1967,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

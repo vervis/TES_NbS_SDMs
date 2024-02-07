@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+66.967163,34.733148,"Trigonella cachemiriana",1697857421,"","AFG",NA,1974,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+75.420547,37.311111,"Trigonella cachemiriana",1843220368,"At Km 1813 from Urumqi on the road from Toxkorgan to the Pakastan (Kashmir) border.","CHN",NA,2001,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+75.31472,37.655834,"Trigonella cachemiriana",1843220355,"At Km 1771 from Urumqi on the road from Toxkorgan to the Pakastan (Kashmir) border.","CHN",NA,2001,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

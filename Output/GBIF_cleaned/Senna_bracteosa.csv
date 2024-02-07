@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-39.08,-10.92,"Senna bracteosa",2998214851,"Quijingue: Serra das Candelas, ca. de 5km a oeste do provoado Quixaba do Mandacaru, no limite com o municipio de Tucano","BRA",NA,2006,"PRESERVED_SPECIMEN","RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-39.08835,-11.699455,"Senna bracteosa",3066859309,"Serra da Bela Vista, alfloramento rochoso.","BRA",NA,2020,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+-38.755138,-7.254666,"Senna bracteosa",1090899204,"Povoado Freixeiras","BRA",NA,2009,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

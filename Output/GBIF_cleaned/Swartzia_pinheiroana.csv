@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-38.9506,-13.9861,"Swartzia pinheiroana",1928553299,"Ca. 7 km N do Povoado de Saquaíra, Península de Maraú.","BRA",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-38.95,-14.07,"Swartzia pinheiroana",2998317424,"BR-030, Mara -Porto de Campinhos, 24km de Mara , 19km L do entroncamento","BRA",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-38.933333,-14.166667,"Swartzia pinheiroana",1094859642,"Estrada entre a Penisula de Maraú e Saquaíra.","BRA",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"

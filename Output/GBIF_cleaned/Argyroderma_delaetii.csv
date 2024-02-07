@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+18.62228,-31.346735,"Argyroderma delaetii",1337993946,"Knersvlakte ( Moedverloren ) Nature Reserve","ZAF",250,1998,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"

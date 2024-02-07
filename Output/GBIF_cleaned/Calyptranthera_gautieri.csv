@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+48.28,-14.07,"Calyptranthera gautieri",1095981032,"Madagascar, Besinkara, Andavakeva, 200 m en amont du gué du ch. du Bekolosy. Plantes de la Réserve Spéciale de Manongarivo","MDG",NA,1997,"PRESERVED_SPECIMEN","TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+48.77444,-18.44778,"Calyptranthera gautieri",730567419,"","MDG",NA,2011,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"
+49.18194,-12.51389,"Calyptranthera gautieri",1144618936,"Montagne d'Ambre, partie nord - A 840 m du point côté 1008, au 232°/Faritanin Antsiranana","MDG",10,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+49.33333,-12.38333,"Calyptranthera gautieri",1261531215,"Forest patch 19 km south of Antsiranana on road to Ambilobe.","MDG",NA,1987,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

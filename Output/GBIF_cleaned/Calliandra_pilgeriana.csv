@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-42.73,-11.1,"Calliandra pilgeriana",2998316561,"Serra do A uru , estrada para Xique-Xique, 2km antes de S o In cio.","BRA",NA,1990,"PRESERVED_SPECIMEN","RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-42.454167,-13.886111,"Calliandra pilgeriana",1094812324,"Ca. 14 km ao norte de Caetité em direção à Mamiaçu, estrada de terra à esquerda da estrada principal. Alto do inselberg.","BRA",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"
+-42.9,-12.366667,"Calliandra pilgeriana",1094849215,"Estrada para Chapada de Cima.","BRA",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"
+-42.509444,-14.226389,"Calliandra pilgeriana",1077561383,"Brejinhos das Ametistas, 20km de Caetité para Brejinho das Ametistas.","BRA",NA,2002,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

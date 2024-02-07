@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+118.25,-34.883333,"Daviesia ovata",2517037898,"Flora of Australia. Western Australia: Darling District: Lower slopes of Mt. Manypeaks.","AUS",NA,1983,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

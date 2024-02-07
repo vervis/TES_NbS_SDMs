@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.456389,-17.705833,"Dypsis poivreana",4061350529,"District Toamasina II, Commune Rurale Mahavelona Foulpointe, Fokontany Morarano, Village Andohanakoho, Réserve Speciale Analalava. Herbier conservé avec alcool. Collecté avec : Amosa Rémi Razaka, Tsaradia Benoit et Randrianambinina Florent.","MDG",NA,2019,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.46666,-17.2,"Dypsis poivreana",1260914679,"Maningory ferry","MDG",NA,1964,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

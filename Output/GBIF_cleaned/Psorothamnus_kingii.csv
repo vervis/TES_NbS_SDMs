@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-117.704922,41.092008,"Psorothamnus kingii",1930656808,"Paradise Valley, US 95, 8 miles north of Winnemucca","USA",NA,1966,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-118.14967,41.03011,"Psorothamnus kingii",1929229835,"Desert Valley, 5.6 road miles N of the Jungo Road on the main road on W side of Blue Mt.","USA",NA,2006,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-117.96,41.07,"Psorothamnus kingii",1927933299,"South end of Silver State Valley, about 12 miles west-northwest of Winnemucca","USA",NA,1970,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-118.58,39.18,"Psorothamnus kingii",1930753714,"Blow Sand Mountains, sand dune area on east side of the range","USA",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-118.99,39.72,"Psorothamnus kingii",1931239962,"Hot Springs Mountains, 6 air miles SSW of Desert Peak","USA",NA,1980,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

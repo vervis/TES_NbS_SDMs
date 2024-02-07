@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+119.32,-32.78,"Acacia tetraneura",912608601,"Casuarina thicket. 54 km due SE of Hyden, Pingaring Varley Road north, 4km E of Kruppa Road.","AUS",0.2,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

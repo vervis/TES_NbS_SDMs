@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+50.05,-15.76666,"Voanioala gerardii",4061255475,"Maroantsetra, Masoala Peninsula, Antalavia, valley northeast of settlement.Primary forest rich in palms, hillslope, gentle undulating topography.","MDG",NA,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+50.15,-15.48333,"Voanioala gerardii",1261836240,"Maroantsetra: Masoala Peninsula, west coast, Antalavia, valleynortheast of settlement. Primary forest rich in palms, hillslope,gentle undulating topography.","MDG",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.53,-15.93,"Voanioala gerardii",912191072,"Ampotaka, Vanono","MDG",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+49.71666,-16.38333,"Voanioala gerardii",4060957751,"Mananara Avaratra, Vanono","MDG",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.9733,-15.6372,"Voanioala gerardii",1321363129,"Maroantsetra, Masoala Peninsula.","MDG",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

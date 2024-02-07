@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+22.03113,-33.34936,"Berkheya francisci",1802665901,"","ZAF",50,2017,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+22.02573,-33.21083,"Berkheya francisci",1838340199,"","ZAF",1,2014,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+21.20547,-33.43499,"Berkheya francisci",3915479411,"","ZAF",NA,2019,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

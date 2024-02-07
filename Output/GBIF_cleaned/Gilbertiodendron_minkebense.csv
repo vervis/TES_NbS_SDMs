@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+14.7667,0.866667,"Gilbertiodendron minkebense",4061673966,"Parc National d'Odzala. Layon Tombi (km 15)","COG",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+12.8,1.5,"Gilbertiodendron minkebense",2845794409,"Minkébé region, 214 m on transect B. Inundatable Limbali forest","GAB",NA,1990,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+15.534661,-0.02836,"Gilbertiodendron minkebense",4061248559,"Makoua region, at 10 km on the road to Etoumbi","COG",NA,1961,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+15.89988,-0.48193,"Gilbertiodendron minkebense",2269012634,"Fort-Rousset","COG",NA,1951,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+15.633599,-0.551011,"Gilbertiodendron minkebense",4061826819,"Région de Fort Roussel, piste d'Assoko à Ekoungounou, sur la route d'Ewo","COG",NA,1961,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+14.86667,0.683333,"Gilbertiodendron minkebense",2269007447,"Parc National d'Odzala, près du camp Mboko, vallée de la Leboli","COG",NA,1994,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

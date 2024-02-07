@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-75.583333,6.583333,"Phthirusa rhynchophylla",4061376493,"17.3 Km NW of San Pedro. along road to Belmira","COL",NA,1987,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-75.33333,6.91666,"Phthirusa rhynchophylla",1259000844,"Carretera La Union-Sonson, km 14","COL",NA,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-75.3,5.91666,"Phthirusa rhynchophylla",4061904038,"Carretera La Union-Sonson, km 13.","COL",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-73.472778,5.724722,"Phthirusa rhynchophylla",2013820849,"Arcabuco, Boyacá, vereda Piedras Blancas, finca Las Delicias.","COL",1427,1996,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED"
+-75.693295,6.645388,"Phthirusa rhynchophylla",931013287,"Carretera Belmira - Vereda El Yerbal. km 6 - 8. camino vereda El Yerbal - Alto de Sabanazos","COL",1593,1991,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-75.333333,5.75,"Phthirusa rhynchophylla",931016130,"Vereda La Soledad. antiguo camino Sonsón - Rioverde de Los Montes. 6.5 km NE de la troncal","COL",6987,1994,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-75.489743,6.843268,"Phthirusa rhynchophylla",930992542,"Llanos de Cuivá. 3.5 km sobre la vía a La Argentina","COL",998,2004,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

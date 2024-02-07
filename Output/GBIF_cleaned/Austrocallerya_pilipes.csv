@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+145.7614,-17.3808,"Austrocallerya pilipes",2435858073,"The start of the Bartle Frere walking track. (55 368418 8077883, 8063-684778).","AUS",1000,2001,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+145.166944,-15.7,"Austrocallerya pilipes",2827203834,"Scrubby Creek, c. 300 m upstream from Banana Creek confluence. Kings Plains Station, 16 km ESE of homestead.","AUS",50,2014,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+145.3231,-16.6208,"Austrocallerya pilipes",2435429623,"Julatten to Mount Molloy road.","AUS",1000,1995,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+145.916667,-17.25,"Austrocallerya pilipes",2515100402,"QLD: Cape York. Harvey Creek.","AUS",NA,1989,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+153.43547,-28.85781,"Austrocallerya pilipes",3128800716,"CULTIVATED, c. 2 km south of Alstonville, No. 195 Wardell Road, property of M and P Leslie.","AUS",6,2013,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

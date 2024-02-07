@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.2667,0.6,"Begonia karperi",4061320494,"Mytsibé river, an Affluent of the Zang River, just east of Méla.","GAB",NA,1983,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+10.1833,0.866667,"Begonia karperi",4062035325,"Crystal Mountains, 33175m on transect F.","GAB",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+11.25,-1.66667,"Begonia karperi",4061816993,"Zone montagneuse du chantier Leroy (Massika I).","GAB",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+10.15,0.883333,"Begonia karperi",2517695300,"Crystal Mountains, on transect H.","GAB",NA,2001,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.1667,0.483333,"Begonia karperi",2269005625,"Monts de Cristal, rivière Essia, 10 km S. Méla.","GAB",NA,1968,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

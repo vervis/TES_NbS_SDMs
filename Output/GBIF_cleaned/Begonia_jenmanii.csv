@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-59.8111,5.12725,"Begonia jenmanii",1456319743,"Mt. Wokomung, NE facing slopes of first of four escarpments","GUY",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-59.47,5.2,"Begonia jenmanii",1929014898,"Kaieteur National Park, Kaieteur Gorge, W Bank Potaro River, 2.5 km from falls.","GUY",NA,1993,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-59.9,5.05,"Begonia jenmanii",1456224495,"Pakaraima Mts, Mt. Wokomung, Suruwabaru Creek, 2-3 km upstream from juncture with Yuarka R","GUY",NA,1993,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-59.9111,5.3014,"Begonia jenmanii",1930707710,"Upper Potaro R., 2 km south of camp, along stream (affluent of Potaro R.).","GUY",NA,2001,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-59.9246,5.33378,"Begonia jenmanii",1320350920,"Mt Ayanganna, East Slope, slopes of first escarpment to base, above 'Toe Slope' camp; 735-1075 m. Coordinates correspond to 735 m along sampling trail, just W of Toe Slope camp along creek.","GUY",NA,2014,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-70.4167,8.8333,"Begonia jenmanii",1317970357,"W of merida-barinas","VEN",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

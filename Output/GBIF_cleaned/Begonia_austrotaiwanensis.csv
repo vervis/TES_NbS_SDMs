@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+120.7,22.747778,"Begonia austrotaiwanensis",3866732690,NA,"TWN",100,2006,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES"
+120.743358,22.409669,"Begonia austrotaiwanensis",3866733455,NA,"TWN",100,1994,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES"
+120.68161,22.88497,"Begonia austrotaiwanensis",3866737641,NA,"TWN",1000,2021,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-120.712608,35.254749,"Chorizanthe aphanantha",3053407368,"2.1 km along Mariposa Trail from Madonna Rd Trailhead parking","USA",NA,2020,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-86.2889,35.8561,"Astragalus bibullatus",1930487724,"On N side of Factory Rd, 0.2 mi W of Richland Rd, ca 3 mi E of Murfreesboro.","USA",NA,1985,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-86.3933,35.6861,"Astragalus bibullatus",1928888886,"Cedar Grove, 11 mi. S. of Murfreesboro","USA",NA,1986,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"

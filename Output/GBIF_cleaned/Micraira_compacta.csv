@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+133.01,-12.8219,"Micraira compacta",2436357248,"Arnhem Land; Upper Magela Creek catchment.","AUS",1000,1995,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+132.933333,-12.783333,"Micraira compacta",2829139978,"Mt Brockman Outlier, 15 km SE of Jabiru, headwaters of Baroalba Creek.","AUS",1000,1989,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+132.983333,-12.883333,"Micraira compacta",2513578908,"Kakadu National Park, Northern Territory. Site 89; growing densely in partial from overhanging boulders in shallow organic matter between horizontal beds of sandstone. 26 km south-south-east of Jabiru East, 5472-813749.","AUS",NA,1980,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+133.35,-12.8,"Micraira compacta",2513578943,"","AUS",NA,1984,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+132.98,-12.65,"Micraira compacta",912676937,"Arnhem Land: Mt. Brockman Range, c. 15km south of Jabiru, c. 28 km east of Nourlangie.","AUS",0.2,1973,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+132.81322,-12.86461,"Micraira compacta",2826679926,"Nourlangie Rock, above main galleries","AUS",10,2011,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

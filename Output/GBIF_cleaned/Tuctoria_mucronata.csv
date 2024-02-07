@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-121.816,38.286,"Tuctoria mucronata",3053345005,"ca. 12 mi S of Dixon, ca. 1 mi SW of Dozier Stn","USA",750,1961,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-121.68642,38.49495,"Tuctoria mucronata",2421720444,"Yolo County: Air Force Antenna Farm.","USA",1143,1993,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-16.9277022,32.7416591,"Deschampsia argentea",1702041621,"Faja da Nogueira-valley, along the levada on the S-slope.","PRT",707,1978,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES"
+-17.11123,32.803021,"Deschampsia argentea",3415133729,"Chão da Ribeira","PRT",2009,2004,"HUMAN_OBSERVATION","CONTINENT_COORDINATE_MISMATCH"

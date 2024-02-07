@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+47,-20.07,"Philgamia glabrifolia",2618613858,"Madagascar, Antananarivo Province, Vakinankaratra Region, Antsirabe District, Commune Ibity, 25 km south of Antsirabe, northern end of Mount Ibity.","MDG",NA,2018,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+47.05,-20.25,"Philgamia glabrifolia",1258536015,"Mont Ibity (Sud). W of Ambohimanjaka. Rocky outcrops.","MDG",NA,1985,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+46.999722,-20.064167,"Philgamia glabrifolia",3060565937,"Contact UM Herbarium","MDG",NA,1997,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID"
+46.5875,-20.5,"Philgamia glabrifolia",3060576508,"Contact UM Herbarium","MDG",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID"

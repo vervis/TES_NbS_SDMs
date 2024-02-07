@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-75.01666,6.01666,"Punjuba callejasii",1261486202,"Piedra de Castrillón, 3-4 hours on foot S of town","COL",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-75.02,6.9,"Punjuba callejasii",1929085257,"Vereda El Guayabito, Kms. 3-6 de la vía Amalfí-El Guayabito, NE de Amalfí, sitio Tabanito.","COL",NA,1989,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-75.317061,6.781246,"Punjuba callejasii",3819729683,"Tenche","COL",NA,2017,"HUMAN_OBSERVATION",""
+-75.189444,5.88225,"Punjuba callejasii",4026679939,"Vereda El Porvenir. Trocha arriba de la Escuela El Porvenir","COL",NA,2016,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE"
+-75.125217,7.05365,"Punjuba callejasii",930999611,"Vereda El Zafiro. sector Chica","COL",650,2010,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-75.466667,7.1,"Punjuba callejasii",931014108,"Vereda San Fermín. 1 km NO de la troncal del caribe. sobre la vía alto de Ventanas - Briceño","COL",2086,1992,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-75.588988,4.72901,"Punjuba callejasii",930997849,"Santuario de Fauna y Flora Otún Quimbaya. corregimiento La Florida","COL",2478,2004,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

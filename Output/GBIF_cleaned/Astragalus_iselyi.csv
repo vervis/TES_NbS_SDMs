@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-109.337839,38.477483,"Astragalus iselyi",1931097654,"Road along Brumley Ridge, La Sal Mountains","USA",NA,1970,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-109.3332,38.54374,"Astragalus iselyi",1930752260,"1 mile northeast of the M4 Ranch, between Brumley Rdg. and Pack Creek","USA",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-109.277983,38.698656,"Astragalus iselyi",1930721569,"5.8 miles ESE of Highway 128 on Onion Creek Road","USA",NA,1979,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-109.411488,38.581324,"Astragalus iselyi",4028976190,"","USA",488,2016,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"

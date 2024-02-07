@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+131.279482,-14.358316,"Vachellia douglasica",1633027137,"Oolloo crossing, about 10km south. Mixed woodland. Sandy loam.","AUS",20,1998,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+131.353611,-13.781111,"Vachellia douglasica",4016911466,"Douglas River Rd, 1km E of Bond Bridge over Douglas River.","AUS",100,2013,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+131.05344,-14.15609,"Vachellia douglasica",2826944311,"Fish River Station.","AUS",10,2015,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

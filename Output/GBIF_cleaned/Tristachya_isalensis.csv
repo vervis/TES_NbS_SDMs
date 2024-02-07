@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+45.283333,-22.4,"Tristachya isalensis",1257930648,"Plateaux et vallées de l'Isalo, à l'Ouest de Ranohira. Grès et sables siliceux.","MDG",NA,1955,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+45.3875,-22.541111,"Tristachya isalensis",1989832174,"Ranohira, Ranohira, Isalo","MDG",NA,1964,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+46.22422,-22.364814,"Tristachya isalensis",1989831407,"Ihosy, Vohidolo cote 707 m. Entre la Menarahaka et Ihosy.","MDG",NA,1973,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+45.25,-22.5167,"Tristachya isalensis",1989831542,"Isalo","MDG",NA,1967,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+45.233331,-22.7,"Tristachya isalensis",1988057246,"Ilakatra Isalo","MDG",NA,1962,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE"
+45.351186,-22.31622,"Tristachya isalensis",1988057533,"District d'Ihosy - Poste de Ranohira. Entre Tametsoa et Sahanafo au Nord de l'Isalo.","MDG",5000,1955,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

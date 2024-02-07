@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+150.386824,-33.546529,"Urodon capitatus",2830141275,"about 100m downslope from Bells Line of Road and c3.5km east of Mt Tomah, Blue Mountains National Park.","AUS",NA,2013,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+22.41489,-33.80319,"Mimetes chrysanthus",1838070236,"","ZAF",1,2013,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+21.88999,-33.7235,"Mimetes chrysanthus",3772468202,"","ZAF",NA,2022,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-122.48429,41.31684,"Eriogonum alpinum",2421783277,"SISKIYOU COUNTY: South side of Mt. Eddy. Shasta-Trinity National Forest. Klamath Mountain Range.","USA",500,2019,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-122.4791,41.342,"Eriogonum alpinum",2982038612,"E face of ridge above Dale Creek Drainage","USA",469,1978,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-122.5037,41.3713,"Eriogonum alpinum",2982030623,"N slopes of Mt. Eddy, above little lake draining into Durney Lake","USA",3561,1977,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-122.58925,41.329222,"Eriogonum alpinum",3320773250,"Local landmark: Cory Peak. China Mt Quad.","USA",NA,1980,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

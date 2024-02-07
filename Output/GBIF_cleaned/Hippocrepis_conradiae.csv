@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+8.8808,42.3612,"Hippocrepis conradiae",3847940417,"","FRA",10,2009,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+8.70739,42.40004,"Hippocrepis conradiae",3848053023,"","FRA",10,2019,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

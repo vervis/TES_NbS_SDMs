@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+113.816667,-22.316667,"Rhynchosia bungarensis",2515808829,"Yardie Creek.","AUS",NA,1970,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+116.2125,-21.721944,"Rhynchosia bungarensis",2515740100,"c. 3 km E of Deepdale outcamp where the Robe River crosses the Deepdale to Millstream road.","AUS",NA,1996,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+118.25917,-22.36083,"Rhynchosia bungarensis",3923968333,"","AUS",NA,1977,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.56694,-20.58027,"Crossandra grandidieri",4061016296,"Fiv: Ambatofinandrahana. Comm: Itremo. Position: entre Antsirakambiaty et Ambatoandrano, terrain savanicole à substrat sableux.","MDG",NA,2003,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

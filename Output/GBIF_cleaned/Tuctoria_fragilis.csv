@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-111.59771,24.55965,"Tuctoria fragilis",3125095226,"Magdalena Plain, Llanos de Hiray. 1 km from west end of stand","MEX",NA,1979,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-111.68333,24.71667,"Tuctoria fragilis",3465117551,"Llanos de Hiray, Magdalena Plain","MEX",NA,1977,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-111.65,24.7,"Tuctoria fragilis",1318214416,"Magdalena Plain, Llanos de Hiray","MEX",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

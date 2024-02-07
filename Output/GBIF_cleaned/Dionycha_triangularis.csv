@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.09555,-14.2,"Dionycha triangularis",1260219285,"Ambohimirahavavy.","MDG",NA,2005,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+48.383333,-14.083333,"Dionycha triangularis",2515666138,"Antsiranana, East of Ankaramy, Reserve Speciale Manongarivo, Antsatrotro, SE face.","MDG",NA,1992,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+48.3,-14.033333,"Dionycha triangularis",2517690246,"Bekolosy. Entre le campement 'France' et le sommet, campement des prospecteurs. Coord. précises (Laborde): 601926/1337594.","MDG",NA,1995,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+48.433333,-13.983333,"Dionycha triangularis",2517628886,"Ambahatra, cours supérieur. Crête entre les deux bas de l'Ambahatra, 1.5 km au N du point côté 1528, sur une éminence de la crête principale.","MDG",NA,1999,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+48.25,-13.88333,"Dionycha triangularis",1260562343,"","MDG",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

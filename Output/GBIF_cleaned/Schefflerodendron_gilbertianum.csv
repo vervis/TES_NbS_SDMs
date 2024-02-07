@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+14.8667,0.633333,"Schefflerodendron gilbertianum",2269002699,"District de Mbomo, Région de la Cuvette. P.N. Odzala. Transect Lékoli-Tombi, au N de la Lékoli.","COG",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+18,-0.83333,"Schefflerodendron gilbertianum",2269003378,"Lac Tumba","COD",NA,1955,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+14.8383,0.891944,"Schefflerodendron gilbertianum",2269002833,"Parc National d' Odzala","COG",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

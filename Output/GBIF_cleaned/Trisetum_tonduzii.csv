@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-83.84303,9.97942,"Trisetum tonduzii",3763006727,"Costa Rica: Oreamuno: Santa Rosa. P. N. Volcán Irazú. Torres Este. Acompaña Tomas Newton. Hierba cespitosa en bordes de sendero. Espiguillas crema. Abundante. lifestage: unknown. Alt.: 3400 m.2005-11-23, Leg.: Acosta,L., Diego Vargas,L. & Villalobos,G. 3844.","CRI",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-83.83333,9.96666,"Trisetum tonduzii",1260851572,"Cordillera Volcánica Central, bosques semiparamosos cerca de la caseta de cobro","CRI",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-84.23,10.2,"Trisetum tonduzii",46115059,"P. N. Volcán Poás Río Mashate.","CRI",NA,1978,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_NONE"
+-83.75,9.8333,"Trisetum tonduzii",1228477832,"Cartago","CRI",NA,1976,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;AMBIGUOUS_COLLECTION"
+-90.73944,14.46861,"Trisetum tonduzii",1260211859,"Volcán de Agua","GTM",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

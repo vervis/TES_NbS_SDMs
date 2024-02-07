@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-113,39.23,"Astragalus uncialis",1930782733,"Sevier desert area, west of Delta, 2.4 road miles west of highway 50 on a road which leaves the highway 0.2 mile west of mile marker 66","USA",NA,1980,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-112.83086,39.07339,"Astragalus uncialis",1928019175,"East slope of the Cricket Mountains, south of Delta","USA",NA,1998,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-113.10582,39.12934,"Astragalus uncialis",3408115902,"","USA",NA,2021,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+-113.07,39.23,"Astragalus uncialis",1928557386,"29 miles SWS of Delta, east side of Long Ridge","USA",NA,1981,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-115.474033,38.740996,"Astragalus uncialis",1928024092,"1 mile northeast of Currant","USA",NA,1982,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-115.57,38.44,"Astragalus uncialis",1929239735,"Railroad Valley, the main valley road, 29.3 km (18.2 mi) south of U.S. Highway 6, 35.5 km (22 mi) air distance south-southwest of Currant","USA",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

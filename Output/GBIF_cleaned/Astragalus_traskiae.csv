@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-119.5528,33.2633,"Astragalus traskiae",3053388229,"San Nicolas Island: ca. 1 mi ESE of Seal Beach, NW end of island","USA",1750,1966,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-119.4439,33.2209,"Astragalus traskiae",3053462198,"San Nicolas Island; at mouth of Towers Canyon at roadside.","USA",200,2016,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-112.591877,36.908127,"Eriogonum mortonianum",1986979175,"Along Arizona Highway 389, 4.5 miles southwest of U.S. Highway 89A at Fredonia and about 9 miles east, northeast of Pipe Springs.","USA",500,1972,"PRESERVED_SPECIMEN","RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

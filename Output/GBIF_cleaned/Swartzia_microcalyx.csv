@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-73.41666,-3.8,"Swartzia microcalyx",1261544330,"Distrito Iquitos. Puerto Almendras, UNAP. Parcela 20 X 500. Bosque primario, suelo de arena blanca. Varillal, no inundable. Sub-parcela 16.","PER",NA,1993,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

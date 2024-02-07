@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-115.45,31.0333,"Festuca bajacaliforniana",3125095044,"Sierra San Pedro Martir; east slope of Cerro 2828, on east rim","MEX",NA,1968,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-115.42347,30.95807,"Festuca bajacaliforniana",3125095049,"Sierra San Pedro Martir (along road to Botella Azul, E of Llanitos, at creek crossing)","MEX",NA,2013,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

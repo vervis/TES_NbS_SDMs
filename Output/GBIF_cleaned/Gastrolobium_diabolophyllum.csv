@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+118.8533,-31.6247,"Gastrolobium diabolophyllum",1930148017,"Bodallin, 21 km. along Hocking Road, at corner of Dulyabin Road and road to Bodallin","AUS",NA,1999,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

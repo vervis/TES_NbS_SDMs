@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+138.895278,-31.801667,"Acacia barattensis",2438877441,"Creek flowing E from near the summit of Black Hill, c. 100 m W of the Black Hill and Willippa leases boundary fence. [1.5 km direct ENE of Black Hill].","AUS",1000,1999,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+139.05,-31.8667,"Acacia barattensis",2439388324,"Bibliando Station. Ca. 2 km north of New West Bore.","AUS",1000,1974,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+139.0333,-31.8333,"Acacia barattensis",2437679639,"The Bluff and Black Hill.","AUS",1000,1979,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+138.833333,-31.883333,"Acacia barattensis",2829744803,"Below Black Hill N of Holowilena Station Homestead","AUS",1000,1984,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+138.8,-31.783333,"Acacia barattensis",2828920513,"Black Range to Wyacca Hill, c. 20 km W of the Bibliando Range","AUS",1000,1984,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

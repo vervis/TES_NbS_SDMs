@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+120.252778,-21.864167,"Acacia fecunda",1929533022,"18 km E of Newman-Marble Bar road at Nullagine on Skull Springs Road","AUS",NA,2004,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

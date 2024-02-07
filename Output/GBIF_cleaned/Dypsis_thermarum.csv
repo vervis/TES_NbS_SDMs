@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+47.4197,-21.26,"Dypsis thermarum",1929479812,"Fianarantsoa. Ranomafana National Park. Talatakely Trail System, trail along river E from camp.","MDG",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+47.47,-21.75,"Dypsis thermarum",912261566,"50 km E of Fianarantsoa, on Mananjary road, across the Namorona River from Ambatolahy","MDG",0.2,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

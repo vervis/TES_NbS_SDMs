@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+117.666666,4.083333,"Cryptocarya impressa",2514076625,"N.E.Borneo; island Nunukan (northern part).","IDN",NA,1953,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+104.785,20.71527,"Cryptocarya impressa",1260513262,"Mai Chau district, Pa Co municipality, Cang village. In heavily logged primary open evergreen tropical seasonal broad-leaved submontane woodlands along streams of limestone mountains.","VNM",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+105.582,20.358333,"Cryptocarya impressa",2514076175,"Vietnam, Ninh Binh Prov., Nho Quan dist., Cuc Phuong National Park.","VNM",NA,1999,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+105.66667,20.28333,"Cryptocarya impressa",437349320,"","VNM",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"
+105.525,19.616667,"Cryptocarya impressa",2514074975,"Vietnam, Thanh Hoa Prov., Ben En National Park.","VNM",NA,2006,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+117.716667,1.316667,"Cryptocarya impressa",2514077727,"Borneo, Tanjung Bangko region near month of Mahakam river.","IDN",NA,1952,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+105.6175,20.130555,"Cryptocarya impressa",4061638961,"Cuc Phuong National Park. Forest on limestone.","VNM",NA,1997,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

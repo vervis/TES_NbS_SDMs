@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+12.23158,59.17925,"Cytisus versicolor",2847890444,"Krokfors, Vårvik kyrka, Dls","SWE",150,2020,"HUMAN_OBSERVATION",""
+13.11377,56.55979,"Cytisus versicolor",2872262418,"Kapplet, Veinge, Hl","SWE",5,2020,"HUMAN_OBSERVATION",""
+16.56235,58.49617,"Cytisus versicolor",3429879106,"Östra Ny kyrka N 40 m, Ög","SWE",10,2021,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+16.25596,58.68901,"Cytisus versicolor",3432022936,"Getå Vilhelmsro 114 m NNV, Ög","SWE",75,2020,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

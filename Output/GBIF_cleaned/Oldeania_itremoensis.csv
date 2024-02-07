@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.563056,-20.595,"Oldeania itremoensis",2268902846,"Itremo protected area, Antsirakambiaty.","MDG",NA,2012,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+47.19,-18.122778,"Oldeania itremoensis",1989829969,"Talata-Angavo, Ankafobe, fragment de forêt d'Ankafobe","MDG",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+46.402,-20.542,"Oldeania itremoensis",1989829287,"West Itremo forest just behind Kew campsite, endophyte plot IT32","MDG",NA,2016,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"

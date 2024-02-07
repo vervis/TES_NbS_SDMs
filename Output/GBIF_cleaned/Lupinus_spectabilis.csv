@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-120.14923,37.6632,"Lupinus spectabilis",3125065448,"Serpentine 5 miles northwest of Bagby","USA",NA,1954,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-120.41325,37.904371,"Lupinus spectabilis",2421736118,"Tuolumne County: Jumper Mine, ca. 1.2 mi S of Stent.","USA",1000,1991,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-120.135184,37.669877,"Lupinus spectabilis",1930221094,"4 mi N of Bagby, serpentine slopes.","USA",NA,1964,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-120.23275,37.737293,"Lupinus spectabilis",1802530390,"Roadcut on west side of Hwy 49, ~5 miles south of Moccasin","USA",NA,2017,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-120.500278,37.9225,"Lupinus spectabilis",2610101916,"Peoria Basin, slopes at southeast edge of basin ca. 1 mile E of Peoria Pass Rd.; New Melones Dam 7.5.","USA",NA,1998,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-74.994583,6.331361,"Acalypha glandulosa",3436481774,"Vereda San Agustín, Cerca de la carretera principal El Jague-San Agustin","COL",NA,2018,"HUMAN_OBSERVATION",""
+-72.58,6.32,"Acalypha glandulosa",317999213,"Municipio de La Uvita. A 500 m del pueblo en dirección a La Uvita","COL",NA,1991,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;AMBIGUOUS_INSTITUTION"
+-72.671641,6.336859,"Acalypha glandulosa",2013812011,"Bajada de Soatá al río Chicamocha.","COL",839,1996,"PRESERVED_SPECIMEN","COORDINATE_PRECISION_INVALID"
+-100.27393,20.95037,"Acalypha glandulosa",2534100896,"Arroyo Mancañas, 2 km al S de El Zorrillo","MEX",1.18,2000,"PRESERVED_SPECIMEN",""
+-109.2417,28.38,"Acalypha glandulosa",1991417945,"Just south of Arroyo Palo Pinto (Barranca Los Arcos) bridge on Mex. 16 (east of air of La Quema)","MEX",NA,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+117.28,-31.47,"Acacia volubilis",912427853,"Locally scattered (not abundant) with regrowth occuring along some road verges. Three adult plants plus a single seedling. 25km North of Cunderdin on the road to Wyalkatchem WA","AUS",0.2,1977,"PRESERVED_SPECIMEN","COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

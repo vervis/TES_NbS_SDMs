@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+166.53333,-21.95,"Pancheria multijuga",1258702714,"Mont Kouakoué. Maquis haut et dense. Terrain rocheux serpentineux.","NCL",NA,1976,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+166.43333,-21.9,"Pancheria multijuga",1258702722,"N.C. Massif de Humboldt: Crête Ni-Ngoye. Forêt galerie, Schiste.","NCL",NA,1973,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+166.6,-22.11666,"Pancheria multijuga",1258702696,"Montagne es Sources. Forêt claire à résineux","NCL",NA,1967,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+164.76666,-20.6,"Pancheria multijuga",1258702697,"N.C. Mont Panie. Maquis arbustif ou forêt basse ouverte.","NCL",NA,1972,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+165.71556,-21.31639,"Pancheria multijuga",1144740004,"Nouvelle-Calédonie - Sommet W du Mt. Humboldt","NCL",NA,1951,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

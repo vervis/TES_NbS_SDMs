@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+50.2375,-15.356111,"Sokinochloa perrieri",1257719791,"Rivière Ankavia, Mantazanina, Ambalavy, Antanandavahely, Ambohitralanana, Antalaha.","MDG",NA,2010,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+50.45,-15.238889,"Sokinochloa perrieri",1989830302,"Ambohitralanana, Antalaha, Masoala Peninsula, Ambohitralanana, track between Cap Est and Ambatobe","MDG",NA,1996,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+50.283333,-15.8,"Sokinochloa perrieri",1989829993,"Sahamalaza, Antalaha, Masoala Peninsula, Sahamalaza, Iketra, Tanany Fred","MDG",NA,1996,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE"
+50.276241,-14.90141,"Sokinochloa perrieri",1988056708,"RN 2","MDG",NA,1953,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+48.445823,-19.000478,"Sokinochloa perrieri",1233596085,"","MDG",68,2016,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES"
+48.41666,-18.91666,"Sokinochloa perrieri",1259739038,"Perinet Forestry Station. Forest above pisciculture lake. Transect 1.","MDG",NA,1985,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

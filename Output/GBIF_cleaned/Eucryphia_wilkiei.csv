@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+145.833333,-17.4,"Eucryphia wilkiei",2827369462,"Wooroonooran NPR 904, near Mt. Bartle Frere.","AUS",1000,1996,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

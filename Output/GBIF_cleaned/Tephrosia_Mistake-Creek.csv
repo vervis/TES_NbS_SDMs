@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+130.05,-16.917222,"Tephrosia Mistake-Creek",2828718891,"Gregory National Park; 100 km SSW of Bullita Ranger Station; on Midnight Creek.","AUS",50,1996,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+130.2944,-18.6804,"Tephrosia Mistake-Creek",1633162371,"Tanami survey; 13km NNW of Mt Winnecke, Winnecke Hills, E of Lajamanu Rd. Low mixed shrubland in narrow valley flat between ranges. Creekline downstream of rockhole with water. Moist soil and residual shallow pools.","AUS",20,2004,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+130.28877,-18.64397,"Tephrosia Mistake-Creek",2850145161,"Tanami Survey; Winneckie Hills area. Triodia hummock grassland with scattered Eucalypts and Acacia; on stoney sandstone hillslope.","AUS",20,2004,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+129.61812,-18.63692,"Tephrosia Mistake-Creek",2826861224,"Birrundudu Range","AUS",100,2004,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+129.9044,-19.5667,"Tephrosia Mistake-Creek",2826906164,"65km NNE Tanami Mine","AUS",NA,2004,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

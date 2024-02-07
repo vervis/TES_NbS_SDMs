@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+118.3,-33.1,"Daviesia tortuosa",2513175147,"Western Australia: Stirling District; 6 km W of Tarin Rock along road to Kukerin","AUS",NA,1979,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

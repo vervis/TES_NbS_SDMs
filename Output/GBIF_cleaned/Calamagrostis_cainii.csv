@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-82.3768,35.7053,"Calamagrostis cainii",1318952238,"Blue Ridge Parkway, moist rocky cliff face @ 1/8 mi N of trail from parking area below Craggy Pinnacle.","USA",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-83.4386,35.6532,"Calamagrostis cainii",1321272320,"Great Smoky Mountain National Park, cliff trail loop and overlook, near camp shelter on Mt. LeConte and near LeConte Lodge.","USA",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-82.262111,35.777472,"Calamagrostis cainii",2517060979,"North Carolina. Yancy Co. Mount Mitchell State Park, cliff and rock outcrops, west facing open slopes, near summit.","USA",NA,2008,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-78.11666,8.66666,"Machaerium bondaense",1258548301,"Río Sabana above Santa Fe.","PAN",NA,1967,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-75.148583,9.960722,"Machaerium bondaense",3426234860,"Raicero","COL",NA,2021,"HUMAN_OBSERVATION",""
+-74.89809,10.846119,"Machaerium bondaense",1844902025,"Entre Baranoa y Galapa.","COL",5874,1961,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;COORDINATE_PRECISION_INVALID"
+-72.561889,7.773944,"Machaerium bondaense",1934692541,"Carretera entre las minas Los Compinches y El Chipio.","COL",1044,2009,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;COORDINATE_PRECISION_INVALID"
+-73.773472,9.299361,"Machaerium bondaense",3897875309,"Ciénaga de Zapatosa","COL",NA,2005,"HUMAN_OBSERVATION","COORDINATE_ROUNDED"
+-75.16378,10.6869,"Machaerium bondaense",3019056398,"Corregimiento Hibácharo, San Benito","COL",NA,2017,"HUMAN_OBSERVATION",""
+-74.95244,10.73362,"Machaerium bondaense",3019062289,"Predios (Usiacurí), Evita","COL",NA,2017,"HUMAN_OBSERVATION",""

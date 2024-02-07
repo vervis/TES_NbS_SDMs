@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+87.35,27.67,"Drepanostachyum intermedium",1321758455,"Wang Khola (14 km ne of num), lat 27 40'n: long 87 21'e","NPL",NA,1975,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+87.35,27.65,"Drepanostachyum intermedium",1322168925,"Mangkhim (12 km n of num)","NPL",NA,1974,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+87.25,27.5833,"Drepanostachyum intermedium",1322020445,"Sedua","NPL",NA,1974,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+91.503922,26.803568,"Drepanostachyum intermedium",3334777515,"","BTN",NA,2018,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"

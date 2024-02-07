@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-122.9331938,38.09303,"Astragalus pycnostachyus",3053377649,"small bluff between freshwater drainage and brackish marsh, N side of Sir Francis Drake Hwy, at head of Schooner Bay","USA",200,2000,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-122.4033717,37.3151517,"Astragalus pycnostachyus",3053430600,"edge of State Hwy 1, 0.6 km S of mouth of San Gregorio Crk","USA",200,2000,"PRESERVED_SPECIMEN","COORDINATE_REPROJECTED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-119.2611,34.2336,"Astragalus pycnostachyus",3059687813,"Ventura. Southern California.","USA",NA,2006,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

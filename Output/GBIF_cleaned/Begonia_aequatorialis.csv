@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-79.696667,-3.609167,"Begonia aequatorialis",4061533818,"Recorrido entre Ayapamba y sendero hacia la Cripta de la Virgen, Cerro Atahualpa. Bosque secundario con remanentes de bosque primario.","ECU",NA,2005,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-78.9978,-3.2933,"Begonia aequatorialis",1321008941,"Parroquia: Huigra. Headwaters of Sigsig Pamba; Quebrada Huigra Viejo. Remnant patch of forest east (2 air-km) of the town of Huigra.","ECU",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-78.6,-0.9,"Begonia aequatorialis",1260366993,"Km 66 on Quevedo-Latacunga road.","ECU",NA,1981,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

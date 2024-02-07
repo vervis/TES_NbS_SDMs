@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+18.3875,-34.265,"Serruria decumbens",3112742272,NA,"ZAF",NA,2021,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

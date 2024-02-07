@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-116.4886,33.54483,"Sidotheca emarginata",3125079607,"Santa Rosa Mt Road (Forest Road 7S02) 4.5 miles south of Highway 74 (Pines to Palms Highway),","USA",NA,1980,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-116.61692,33.62274,"Sidotheca emarginata",1426133771,"Road above Kenworthy Ranger Station, Garner Valley, San Jacinto Mountains.","USA",NA,1964,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-116.69505,33.733939,"Sidotheca emarginata",2430549342,"San Bernardino National ForestNortheast of South Ridge trailhead, east of Idyllwild.; Idyllwild Quad","USA",NA,2003,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-116.61995,33.78374,"Sidotheca emarginata",2430224717,"Burned area on the east side of Mt. San Jacinto.","USA",1600,1981,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

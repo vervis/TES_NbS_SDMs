@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.1525,-12.59555,"Peperomia pluvisilvatica",4061379645,"National Park Montagne d'Ambre, along trail from Grand Lac to Pic d'Ambre. Dense evergreen mid altitude forest, rainfall 4000 mm/year.","MDG",NA,2001,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.173056,-12.531389,"Peperomia pluvisilvatica",4062121692,"National Park Montagne d'Ambre. Evergreen mid altitude forest.","MDG",NA,2001,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-84.18,10.69,"Swartzia maquenqueana",2998337265,"Alajuela: San Carlos. Cuanca del San Carlos. Boca Tapada. Alrededores de Laguna Lagarto Lodge","CRI",NA,2005,"PRESERVED_SPECIMEN","RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-84.20416,10.64722,"Swartzia maquenqueana",1260877172,"Cuenca del San Carlos, Pital, Yucatan, Finca Octubre 78","CRI",NA,1995,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

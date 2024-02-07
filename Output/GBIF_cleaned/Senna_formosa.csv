@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-39.08,-16.43,"Senna formosa",2998499775,"Ramal para Fazenda Caja ba, com entrada na rodovia BR-101. Trecho Itamaraj a Eun polis km 64.","BRA",NA,1972,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-39.4166,-16.8833,"Senna formosa",1931245268,"P. Seguro ramal para F. Cajaiba, com entrada na rod. BR 101, Trexo Itamaraju a Eunapolis, Km. 64","BRA",NA,1972,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-39.18158,-16.372109,"Senna formosa",1928933635,"Reserva Biológica Pau-Brasil","BRA",NA,1971,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY"
+-41.083611,-20.516111,"Senna formosa",1094879079,"Parque Estadual do Forno Grande. Área rupícula próximo a sede do parque.","BRA",NA,2008,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;DIFFERENT_OWNER_INSTITUTION"
+-39.08,-16.23,"Senna formosa",1095291315,"Estação Ecológica do Pau-Brasil, Rod. BR 367 (Porto Seguro/Eunapólis). Região de Mata Higrófila Sul Baiana.","BRA",NA,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

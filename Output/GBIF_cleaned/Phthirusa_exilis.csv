@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-76.41666,6.75,"Phthirusa exilis",4062081028,"Region Murri, Carretera Nutibara-La Blanquita, Km 14-20","COL",NA,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-75.33,5.75,"Phthirusa exilis",2426914630,"Municipio Sonsón: Vereda La Soledad, antiguo camino Sonsón - Rioverde de Los Montes, 6.5 km NE de la troncal.","COL",NA,1994,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-75.5,7.08333,"Phthirusa exilis",1259842306,"","COL",NA,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-76.33333,6.75,"Phthirusa exilis",4061922245,"Carretera Nutibara-La Blanquita, Km. 12.","COL",NA,1988,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+-75.3,5.92,"Phthirusa exilis",2426830054,"Municipio La Unión: Carretera La Unión-Sonsón, Km. 13.","COL",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

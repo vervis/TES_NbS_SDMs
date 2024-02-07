@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-93.1,16.97,"Ateleia chicoasensis",2998581476,"Mpio. Chicoas n. Loc. 2 Km al E de Chicoas n, por el camino Chicoas n-Soyal .","MEX",NA,1998,"PRESERVED_SPECIMEN","COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+-76.9528,21.3611,"Ateleia chicoasensis",1318619285,"Carretera de Manatí a Puerto Manatí, cerca de Los Pinos.","CUB",NA,2000,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-117.856389,37.826111,"Eriogonum tiehmii",1986949863,"Silver Peak Range; Silver Peak Range, north of the road from Silver Peak to Fish Lake Valley, 1.2 air miles north-northwest of Cave Springs.","USA",NA,1984,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

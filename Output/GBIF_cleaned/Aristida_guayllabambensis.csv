@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-78.07,0.5,"Aristida guayllabambensis",3005698509,"In Chota valley, ca km 2 Pananericana - Mira.","ECU",NA,1992,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

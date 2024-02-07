@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+121.11528,-26.68972,"Acacia sciophanes",1144582652,"Western Australia - Western Australia. Loc. 15km W of Mukinbudin towards Welbungin, W.A./State of Western Australia","AUS",NA,1975,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

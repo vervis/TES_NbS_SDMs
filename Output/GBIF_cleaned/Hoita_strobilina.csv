@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-121.84495,37.1096,"Hoita strobilina",3053398187,"Loma Prieta Peak, by parking area at mid-slope of peak on W side in rocky ditch.","USA",300,1994,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-121.872,37.1839,"Hoita strobilina",3125068368,"Densely wooded slopes above Guadalupe Creek along Hicks Road, 1 mile SE of Guadalupe Dam","USA",NA,1964,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-121.7616,37.0855,"Hoita strobilina",2451546131,"Uvas Valley near head off Uvas Cr just below Sveadal c. 5 mi E of Loma Prieta","USA",1000,1960,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-121.5866,37.5773,"Hoita strobilina",2270270224,"2.4 miles from 14-mile house, Mines road, Livermore hills","USA",500,1959,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;AMBIGUOUS_INSTITUTION"

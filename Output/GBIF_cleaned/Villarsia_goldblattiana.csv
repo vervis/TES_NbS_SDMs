@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+18.44987,-34.2989,"Villarsia goldblattiana",1931473209,"","ZAF",1,2016,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"
+18.474884,-34.350239,"Villarsia goldblattiana",2331509397,"Cape of Good Hope / Cape Point Area, South Africa","ZAF",250,2015,"HUMAN_OBSERVATION","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"

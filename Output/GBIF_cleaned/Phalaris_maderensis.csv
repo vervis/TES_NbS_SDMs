@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-16.67493,32.73432,"Phalaris maderensis",3776151303,"Ilheu do Desembarcador","PRT",3,2022,"HUMAN_OBSERVATION","RECORDED_DATE_INVALID;CONTINENT_COORDINATE_MISMATCH"

@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+48.673333,-13.639722,"Noronhia jeremii",1257985723,"Ambilobe, Beramanja, Anketrabe Bilinta. Forêt de Manongarivo Kalobinono. Le long de la rivière près du campement.","MDG",NA,2013,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.530278,-15.328333,"Noronhia jeremii",4031671811,"Fiv.: Maroantsetra. Comm.: Ambinanitelo. Fok.: Marovovonana.","MDG",NA,2004,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+115.58,-30.57,"Acacia splendens",912235582,"16 km due NW of Dandaragan, 2 km S along Mullering Road from Waddi Road then 0.6 km SE Western Australia","AUS",0.2,1986,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

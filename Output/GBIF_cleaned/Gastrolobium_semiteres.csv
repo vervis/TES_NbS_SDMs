@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+120.29,-31.2,"Gastrolobium semiteres",912233936,"Coolgardie District; Boorabbin Rock, 300m to the NE. Boorabbin Rock is between Southern Cross and Coolgardie.","AUS",0.2,1998,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

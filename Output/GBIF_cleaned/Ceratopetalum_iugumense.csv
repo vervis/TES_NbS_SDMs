@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+145.472222,-16.077222,"Ceratopetalum iugumense",2827265657,"Daintree National Park, summit area of Mt Sorrow walking track, W of Cape Tribulation.","AUS",50,2008,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+145.403333,-16.166667,"Ceratopetalum iugumense",2827691040,"Lower Eastern Thornton Peak, along Little Cooper Creek.","AUS",50,1986,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

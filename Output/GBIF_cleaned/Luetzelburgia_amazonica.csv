@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-63.62,-10.63,"Luetzelburgia amazonica",1928103117,"Ca. 5 km. S of Campo Novo, on road to old mining area at Balateiro","BRA",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-63,-10.583333,"Luetzelburgia amazonica",1927772914,"Porto Velho. Estrada da Serra do Balateiro a 3 km da Vila Campo Novo.","BRA",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY"
+-63.883333,-8.666667,"Luetzelburgia amazonica",2269037225,"Porto Velho, 5 Km. S of Campo Novo.","BRA",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"

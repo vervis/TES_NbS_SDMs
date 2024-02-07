@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+49.464167,-17.698333,"Millettia hitsika",1260367682,"Foulpointe, Morarano, Analalava. Forêt d'Analalava. Forêt dense humide de basse altitude sur latérite. Echantillons préservés en alcool.","MDG",NA,2004,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+49.13333,-18.81666,"Millettia hitsika",1261512641,"Forêt Ambila-Lemaitso.","MDG",NA,1951,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

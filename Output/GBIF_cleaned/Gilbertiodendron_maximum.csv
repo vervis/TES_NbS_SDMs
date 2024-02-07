@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.3502,-1.951,"Gilbertiodendron maximum",4061914081,"Mt. Igoumbi southern ascent.","GAB",NA,2005,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+9.9,-1.9,"Gilbertiodendron maximum",2517376556,"4 km on the road from Rabi to Divangui.","GAB",NA,1992,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

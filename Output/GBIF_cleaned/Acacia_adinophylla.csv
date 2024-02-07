@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+121.11528,-26.68972,"Acacia adinophylla",1144582437,"Western Australia - Western Australia. Loc. Near north-west base of Helena and Aurora Ranges 200 m from base of ironstone hills./State of Western Australia","AUS",NA,1984,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

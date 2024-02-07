@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+116.6,6.05,"Medinilla stephanostegia",2235941633,"Borneo. Ranau District: East Mesilau River, between Mt. Kinabalu golf course site and Mesilau Cave.","MYS",NA,1984,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+116.616666,5.966666,"Medinilla stephanostegia",2516297896,"Mesilau river.","MYS",NA,1964,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+116.65,6.216666,"Medinilla stephanostegia",2514362243,"Gunung Tamboyukan, Ranau district.","MYS",NA,1961,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

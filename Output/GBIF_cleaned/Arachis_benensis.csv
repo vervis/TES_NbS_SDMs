@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-64.916666,-14.783333,"Arachis benensis",1998858310,"Along the airport runway at Trinidad","BOL",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;COLLECTION_MATCH_FUZZY"
+-65.4,-10.82,"Arachis benensis",1260234271,"Protected due to name conservation status","BOL",NA,1979,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-63.93556,-20.08389,"Arachis benensis",1144583278,"Beni - Bolivia, dep. del Beni, Trinidad/Departamento del Beni","BOL",NA,1977,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

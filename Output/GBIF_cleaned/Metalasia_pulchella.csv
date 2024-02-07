@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+18.37,-34.02,"Metalasia pulchella",1096732755,"Flora of South Africa. Cape Province. Cape Div.: Cape Peninsula, S slopes of Twelve Apostles, 2 km E Llandudno.","ZAF",NA,1980,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+18.42,-34.22,"Metalasia pulchella",1096732743,"Flora of South Africa. Cape Province. Cape Div.: Cape Peninsula, end of Red Hill Road.","ZAF",NA,1980,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+18.83656,-33.74507,"Metalasia pulchella",2573800755,"","ZAF",6200,2019,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

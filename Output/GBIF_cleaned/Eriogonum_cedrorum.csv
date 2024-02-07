@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-123.126944,38.621111,"Eriogonum cedrorum",4062097271,"The Cedars, Central Canyon area NE of Layton Mine and S of the upper mine on steep, gravelly, serpentine. N-facing slopes. T9N, R12W, sec. 13 SENE.","USA",NA,2009,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"

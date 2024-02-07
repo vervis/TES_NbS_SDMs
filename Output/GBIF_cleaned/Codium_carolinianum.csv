@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-64.8,18.25,"Codium carolinianum",2426855310,"South of St. Thomas, dredged on Oregon II, sta. 46046.","VIR",NA,1987,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-80.0211,26.725,"Codium carolinianum",3897760532,"Palm Beach County. Palm Beach.","USA",NA,2002,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-88.2,30.78333,"Codium carolinianum",3744687783,"Gulf of Mexico","USA",NA,1978,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

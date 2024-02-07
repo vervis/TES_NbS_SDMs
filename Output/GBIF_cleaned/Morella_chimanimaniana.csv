@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+33.005058,-19.748961,"Morella chimanimaniana",3470240991,"Nothern ridge Mt. Pheza, lower Chimanimani Mts.","MOZ",NA,2011,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+33.058333,-19.875278,"Morella chimanimaniana",1937580933,"Chimanimani Mountains, Zona Ma SS, large grassland area. wp195","MOZ",NA,2016,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

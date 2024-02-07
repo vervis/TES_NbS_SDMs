@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-47.6,-16.84036,"Chamaecrista strictula",1929197468,"Serra dos Cristais. 10 km S. of Cristalina","BRA",5000,1965,"PRESERVED_SPECIMEN","COLLECTION_MATCH_FUZZY"
+-47.651944,-16.72,"Chamaecrista strictula",1587325323,"Saída de Cristalina sentido Luziânia, próximo a casa abandonada ca. 5 km após a loja Mundial Gemas Pedras Preciosas.","BRA",NA,2014,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+-47.670556,-16.720222,"Chamaecrista strictula",1324960171,"Saída de Cristalina sentido Luziânia, próximo a cas abandonada ca. 5 Km após Loja Mundial Gemas Pedras Preciosas","BRA",NA,2014,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

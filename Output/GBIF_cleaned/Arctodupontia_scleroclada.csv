@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+106.27813,74.82956,"Arctodupontia scleroclada",1697172322,"","RUS",500,1984,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+11.4861,78.971,"Arctodupontia scleroclada",1701860571,"Kongsfj.næset. Kongsfjorden","SJM",1414,1975,"PRESERVED_SPECIMEN","COUNTRY_DERIVED_FROM_COORDINATES;CONTINENT_DERIVED_FROM_COORDINATES"
+11.9183,78.9259,"Arctodupontia scleroclada",1702246674,"Kongsfjorden, Ny-Ålesund, wet mire beneath dogyard marsh grazed by geese, straws found inside enclosures only","SJM",71,2009,"PRESERVED_SPECIMEN","COUNTRY_DERIVED_FROM_COORDINATES;CONTINENT_DERIVED_FROM_COORDINATES"
+11.6771,78.9597,"Arctodupontia scleroclada",1701860438,"Ny-Ålesund Stuphallet","SJM",3354,1975,"PRESERVED_SPECIMEN","COUNTRY_DERIVED_FROM_COORDINATES;CONTINENT_DERIVED_FROM_COORDINATES"
+-92.482633,57.492326,"Arctodupontia scleroclada",1658235133,"Wapusk National Park, Rupert Creek, south of","CAN",NA,2010,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"

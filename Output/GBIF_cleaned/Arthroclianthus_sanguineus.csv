@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+166.25,-21.96666,"Arthroclianthus sanguineus",1261466912,"TONTOUTA RIVER VALLEY: Lower Tontouta River Valley, ca 50 m elevation; scrub and low forest patches near river.","NCL",NA,1982,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+167.45806,-22.65583,"Arthroclianthus sanguineus",439278029,"","NCL",NA,1965,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"

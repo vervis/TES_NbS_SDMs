@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+33.009257,-19.781328,"Xerophyta argentea",1937580903,"Chimanimani Duist., plateau west of Mawenge Peak, Stonehenge.","ZWE",NA,1958,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+32.999644,-19.771136,"Xerophyta argentea",1937580128,"Hadange Gorge, Chimanimani National Park","ZWE",0.5,2010,"HUMAN_OBSERVATION",""
+32.867319,-19.625384,"Xerophyta argentea",1937581165,"Sussundenga Distrm Rotanda, between Rio Mussapa and frontier, Tandara.","MOZ",NA,1965,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"

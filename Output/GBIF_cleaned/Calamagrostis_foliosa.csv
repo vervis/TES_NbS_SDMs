@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-124.230003,40.27,"Calamagrostis foliosa",3818318760,"California, Humboldt Co., 8.2 mi NW of Honeydew on Lost Coast Highway and 7.7 mi SE of Petrolia at bridge crossing Mattole River","USA",NA,2006,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"
+-123.9424,39.9184,"Calamagrostis foliosa",2421696178,"Mendocino County: Sinkyone Wilderness State Park, Needle Rock, between Whale Gulch and Bear Harbor. About 20 miles west of Garberville.","USA",98,1986,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-123.903,41.5187,"Calamagrostis foliosa",2421696503,"Southern Del Norte County: Six Rivers National Forest, on Red Mtn., east of Klamath Glen.","USA",1129,1964,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-124.06721,40.02319,"Calamagrostis foliosa",2982065118,"Shelter Cove, 5 above mean high tide, E facing coastal bluff","USA",160,1980,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-124.35296,40.25706,"Calamagrostis foliosa",2982020892,"Four Mile Creek","USA",500,1980,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-124.261222,40.561667,"Calamagrostis foliosa",3320763203,"Local landmark: Mattole River. Cape Mendocino Quad.","USA",NA,1951,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

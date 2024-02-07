@@ -1,0 +1,7 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+138.97,-34.555556,"Lachnagrostis batesii",2829957655,"Pewsey Vale Creek west of Kaiser Stuhl C[onservation] P[ark].","AUS",1000,2014,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+138.689444,-35.070556,"Lachnagrostis batesii",2435592529,"Mt Lofty Springs, head of Waterfall Creek, looking over Adelaide.","AUS",1000,2013,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+138.636944,-35.290833,"Lachnagrostis batesii",2436445585,"Meadows Creek, 5 km W of Burma Rd; below Secret Springs.","AUS",1000,2012,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+138.238611,-35.603056,"Lachnagrostis batesii",2438520524,"Fleurieu Peninsula, Raywood Nursery Creek.","AUS",1000,2007,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+138.583611,-35.443333,"Lachnagrostis batesii",3466846767,"Hindmarsh Valley Waterfalls Reserve. Near base of falls. SL region.","AUS",10,2020,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+138.95747,-34.69429,"Lachnagrostis batesii",1084223351,"","AUS",NA,2013,"HUMAN_OBSERVATION","CONTINENT_DERIVED_FROM_COORDINATES"

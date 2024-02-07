@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+44.48,-17.88,"Peponidium perrieri",2618555633,"Plantes de la région de Beanka. Madagascar, province de Majunga/Mahajanga. Beanka, partie nord; Ambabaky.","MDG",NA,2011,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+48.08,-13.75,"Peponidium perrieri",1096798296,"Madagascar. Antsiranana Province, Ambanja District, Ambaliha Commune. Forêt d'Ambongomirahavavy.","MDG",NA,2011,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"
+44.51,-18.02,"Peponidium perrieri",2618382201,"Madagascar, province de Majunga/Mahajanga. Beanka, partie sud; Kinahango.","MDG",NA,2011,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_COLLECTION_MISMATCH"

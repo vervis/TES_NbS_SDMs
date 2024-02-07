@@ -1,0 +1,8 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+10.0333,-2.76667,"Oddoniodendron gambanum",4061305375,"Gamba.","GAB",NA,1968,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+10.21,-2.693333,"Oddoniodendron gambanum",2515775914,"Gamba area, c. 28 km from Yenzi, Moula plains.","GAB",NA,1995,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+10.3633,2.40028,"Oddoniodendron gambanum",2269011730,"Campo Ma'an area, Ebianemeyong, path to Memve'ele water falls.","CMR",NA,2002,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+11.75,-0.45,"Oddoniodendron gambanum",2013862879,"Forêt des Abeilles, E of Lopé Reserve; in NSG timber concession; primary forest; collected with Chris Flores.","GAB",NA,1993,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+12.233333,-0.35,"Oddoniodendron gambanum",2013868709,"SE of Booué, in Lutexfo timber concession; primary forest.","GAB",NA,1993,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+12.233333,-0.266667,"Oddoniodendron gambanum",2517612553,"Foret des Abeilles. 14 km SSE of confluence Ogooue-Ivindo.","GAB",NA,1993,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+11.9,0.45,"Oddoniodendron gambanum",2515850621,"29 km N of Koumameyong.","GAB",NA,1987,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

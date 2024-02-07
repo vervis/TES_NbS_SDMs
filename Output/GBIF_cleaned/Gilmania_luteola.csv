@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-116.843,36.422,"Gilmania luteola",3053475229,"side cyn of Gold Cyn in Death Valley","USA",1000,1969,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-120.185954,36.734541,"Gilmania luteola",2382328017,"Collected about 7 miles west of Kerman on Highway 180.","USA",1417,1973,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"
+-116.8057,36.3638,"Gilmania luteola",3406833234,"Funeral Range [Black Mts], Artists' Drive Road, E side of Death Valley.","USA",4500,1973,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY"

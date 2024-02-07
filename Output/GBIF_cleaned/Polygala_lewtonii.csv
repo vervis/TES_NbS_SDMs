@@ -1,0 +1,6 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-81.48,27.81,"Polygala lewtonii",1258122890,"Protected due to name conservation status","USA",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-81.48,27.84,"Polygala lewtonii",1258122908,"Protected due to name conservation status","USA",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-81.4163,27.5219,"Polygala lewtonii",2452234903,"Lake Wales Ridge National Wildlife Refuge, Carter Creek.","USA",NA,2019,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84"
+-81.76,29.25,"Polygala lewtonii",1258122910,"Protected due to name conservation status","USA",NA,2003,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"
+-81.7,28.55,"Polygala lewtonii",1258122931,"Protected due to name conservation status","USA",NA,2007,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

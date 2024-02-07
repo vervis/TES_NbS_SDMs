@@ -1,0 +1,4 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+-121.748333,38.54,"Piptatherum microcarpum",1986948163,"UC Davis agronomy experimental area, plant instruction nursery, row B-42","USA",NA,1962,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;COLLECTION_MATCH_FUZZY"
+68.933333,34.6,"Piptatherum microcarpum",575347323,"In valle Paghman prope Kabul","AFG",NA,1962,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
+68.79528,38.71722,"Piptatherum microcarpum",2464588931,"Tadschikistan; Hissor-Gebirge Distrikt Varzob; N Duschanbe, am Ausgang der Varzob-Schlucht etwa 5 km NNE Chorbogh; 1000 m Seehöhe; 68°47'43E 38°43'02N ±100 m","TJK",100,2019,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+46.24944,-9.427624,"Eragrostis subaequiglumis",1988060951,"Ouest du lagon.","SYC",NA,1983,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+46.343251,-9.423676,"Eragrostis subaequiglumis",1988061478,"Cinq Cases Camp. South Island.","SYC",NA,1968,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_NONE"
+46.505556,-9.421667,"Eragrostis subaequiglumis",1988060543,"Mixed srcub 2 miles west of Cinq Cases Camp 0.5 mile from coast.","SYC",NA,1968,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE"
+56.27614,-7.13572,"Eragrostis subaequiglumis",3994888955,"Coëtivy","SYC",NA,1980,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES"

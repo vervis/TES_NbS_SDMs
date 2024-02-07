@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+121.11528,-26.68972,"Acacia botrydion",1144582444,"Western Australia - Western Australia. Loc. About 12.5 km NW of Wongan Hills towards Piawaning, W.A./State of Western Australia","AUS",NA,1975,"PRESERVED_SPECIMEN","GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE"

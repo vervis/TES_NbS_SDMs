@@ -1,0 +1,2 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+140.958333,-26.991667,"Neurachne lanigera",2829617213,"9 km N L[eap] Y[ear] B[ore]. Marqualpie 1 and 4","AUS",1000,1988,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"

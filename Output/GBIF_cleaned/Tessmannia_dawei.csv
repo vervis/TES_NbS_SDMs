@@ -1,0 +1,5 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+11.767833,-4.516194,"Tessmannia dawei",4061352638,"Tchimpounga. Along coast NW of Pointe Noire, about 7 km SE of the Kouilou river bridge, in Tchimpounga Reserve.","COG",NA,2011,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+11.8155,-4.69358,"Tessmannia dawei",4061447449,"Pointe Noire, along coast just northwest of Pointe Noire, near Pointe Indienne. Plot PORT 2.","COG",NA,2011,"PRESERVED_SPECIMEN","OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION"
+12.45,-5.866667,"Tessmannia dawei",2517637657,"Boma-Banana, jonction des plaeaux Tshikay et Watemba.","COD",NA,1957,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"
+12.733333,-5.833333,"Tessmannia dawei",2516105107,"road de Boma à Banane.","COD",NA,1958,"PRESERVED_SPECIMEN","INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH"

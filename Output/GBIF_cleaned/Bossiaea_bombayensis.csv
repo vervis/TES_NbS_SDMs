@@ -1,0 +1,3 @@
+"lon","lat","species","gbifID","locality","countryCode","coordinateUncertaintyInMeters","year","basisOfRecord","issue"
+149.738341,-35.342655,"Bossiaea bombayensis",1070134383,"locality withheld","AUS",10,2006,"PRESERVED_SPECIMEN","COORDINATE_ROUNDED;CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_NONE"
+150.013611,-35.129444,"Bossiaea bombayensis",2829306514,"'Neverdie', slope below house, 5.6 km directly ENE of Oallen Ford and 175 m N of Shoalhaven River.","AUS",50,2014,"PRESERVED_SPECIMEN","CONTINENT_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY"
